@@ -859,12 +859,11 @@ img {
             }
         }
         .cta--text {
-            padding-right: 150px;
+            width:100%;
+            padding:5%;
             @media #{$breakpoint-md} {
-                padding-right: 50px;
             }
             @media #{$breakpoint-xs} {
-                padding-right: 0;
             }
         }
     }
