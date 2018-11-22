@@ -3,405 +3,558 @@
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
+    <!-- Favicon  -->
+    <link rel="icon" href="img/core-img/favicon.ico">
+    
     {% include meta.html %}
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
+    <link rel="stylesheet" type="text/css" href="/css/core-style.css">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-    <link rel="shortcut icon" href="/resources/content/files/favicon.ico" type="image/x-icon"/>
-    <link rel="stylesheet" href="https://sabnanifootball.mysirclo.com/resources/css/reset.css?hash=6f3bd544"/>
-    <link rel="stylesheet" href="https://sabnanifootball.mysirclo.com/resources/css/font-awesome.css?hash=6f3bd544"/>
-    <link rel="stylesheet" href="https://sabnanifootball.mysirclo.com/resources/css/typography.css?hash=6f3bd544"/>
-    <link rel="stylesheet" href="https://sabnanifootball.mysirclo.com/resources/css/forms.css?hash=6f3bd544"/>
-    <link rel="stylesheet" href="https://sabnanifootball.mysirclo.com/resources/css/flexslider.css?hash=6f3bd544"/>
-    <link rel="stylesheet" href="https://sabnanifootball.mysirclo.com/resources/css/ccproductview.css?hash=6f3bd544"/>
-    <link rel="stylesheet" href="https://sabnanifootball.mysirclo.com/resources/css/colorbox.css?hash=6f3bd544"/>
-    <link rel="stylesheet" href="https://sabnanifootball.mysirclo.com/resources/css/carouFredSel.css?hash=6f3bd544"/>
-    <link rel="stylesheet" href="https://sabnanifootball.mysirclo.com/resources/css/jquery.instastream.css?hash=6f3bd544"/>
-    <link rel="stylesheet" href="https://sabnanifootball.mysirclo.com/resources/css/jqui/jqui.css?hash=6f3bd544"/>    
-    <link rel="stylesheet" href="https://sabnanifootball.mysirclo.com/resources/css/styles.css?hash=6f3bd544"/>
-    <link rel="stylesheet" href="https://sabnanifootball.mysirclo.com/resources/css/dd.css?hash=6f3bd544"/>
-    <link rel="stylesheet" href="https://sabnanifootball.mysirclo.com/resources/css/viseli.css?hash=6f3bd544"/>
-    <link rel="stylesheet" href="https://sabnanifootball.mysirclo.com/resources/css/responsive.css?hash=6f3bd544"/>
-    
-    <script type="text/javascript" src="https://sabnanifootball.mysirclo.com/resources/js/jquery.js?hash=6f3bd544"></script>
-    <script type="text/javascript" src="https://sabnanifootball.mysirclo.com/resources/js/jcarousel.js?hash=6f3bd544"></script>
-    <script type="text/javascript" src="https://sabnanifootball.mysirclo.com/resources/js/cc_ajax.js?hash=6f3bd544"></script>
-    <script type="text/javascript" src="https://sabnanifootball.mysirclo.com/resources/js/jquery.validate.js?hash=6f3bd544"></script>
-    <script type="text/javascript" src="https://sabnanifootball.mysirclo.com/resources/js/jquery.colorbox-min.js?hash=6f3bd544"></script>
-    <script type="text/javascript" src="https://sabnanifootball.mysirclo.com/resources/js/jquery.elevateZoom-2.5.5.min.js?hash=6f3bd544"></script>
-    <script type="text/javascript" src="https://sabnanifootball.mysirclo.com/resources/js/jquery.instastream.js?hash=6f3bd544"></script>
-    <script type="text/javascript" src="https://sabnanifootball.mysirclo.com/resources/js/ccproductview.js?hash=6f3bd544"></script>
-    <script type="text/javascript" src="https://sabnanifootball.mysirclo.com/resources/js/carouFredSel.js?hash=6f3bd544"></script>
-    <script type="text/javascript" src="https://sabnanifootball.mysirclo.com/resources/js/viseli.js?hash=6f3bd544"></script>
-    <script type="text/javascript" src="https://sabnanifootball.mysirclo.com/resources/js/site.js?hash=6f3bd544"></script>
-    <script type="text/javascript" src="https://sabnanifootball.mysirclo.com/resources/js/flexslider.js?hash=6f3bd544"></script>
-    <script type="text/javascript" src="https://sabnanifootball.mysirclo.com/resources/js/jquery.dd.js?hash=6f3bd544"></script>
-    <script type="text/javascript" src="https://sabnanifootball.mysirclo.com/resources/js/jquery.nested.js?hash=6f3bd544"></script>
+</head>
 
-    
-  </head>
-
-  <body>
-    <!-- header -->
-    <div id="header">
-        <div class="grid">
-            <!-- mobile navigation -->
-            <div class="clearfix show-mobile">
-                <div id="nav-small" class="col-xs-4 visible-xs-block visible-sm-block visible-md-block">
-                    <nav id="top_navigation_small">
-                        <span id="menu-point"><i class="fa fa-bars" aria-hidden="true"></i></span>
-                        <div class="button_wrapper">
-                            <div class="pos-relative box-nav-wrapper">
-                                <span id="close-nav-link"></span>
-                                <div class="pos-relative nav-wrapper">
-
-                                    <form id="search-form-small" class="clearfix wrapper" action="https://sabnanifootball.mysirclo.com/products/search">
-                                        <input name="query" type="text" class="span2" value="" placeholder="Search">
-                                    </form>
-                                    <div class="nav-top-menu">
-                                        <ul>
-                                            <li class="first"><a href="https://sabnanifootball.mysirclo.com/account/register" class="fx-menu">Register</a></li>
-                                            <li class="last"><a href="https://sabnanifootball.mysirclo.com/account/login" class="fx-menu">Log In</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="menu-hd">
-                                        <h3>menu</h3>
-                                        <a href="/" id="close-button-menu"></a>
-                                    </div>
-                                    <ul>
-                                        <div class="main-menu">
-                                            <ul class="clearfix menu-listing">
-
-                                                <li class="menu-item item-0 first">
-                                                    <a href="https://sabnanifootball.mysirclo.com/blog" class="">news</a>
-
-                                                </li>
-
-                                                <li class="menu-item item-1">
-                                                    <a href="https://sabnanifootball.mysirclo.com/stadium" class="">Stadium</a>
-
-                                                </li>
-
-                                                <li class="menu-item parent item-2">
-                                                    <a href="https://sabnanifootball.mysirclo.com/products/category/clubs" class="dropdown-toggle">Clubs</a>
-
-                                                    <ul class="sub-nav dropdown-menu hidden-phone hidden-tablet ">
-                                                        <li class="submenu-item  first last"><a href="https://sabnanifootball.mysirclo.com/products/category/clubs/serpong-city-fc">Serpong City FC</a>
-                                                        </li>
-                                                    </ul>
-
-                                                </li>
-
-                                                <li class="menu-item parent item-3">
-                                                    <a href="https://sabnanifootball.mysirclo.com/products/category/apparel" class="dropdown-toggle">Apparel</a>
-
-                                                    <ul class="sub-nav dropdown-menu hidden-phone hidden-tablet ">
-                                                        <li class="submenu-item  first"><a href="https://sabnanifootball.mysirclo.com/products/category/apparel/football-fashion">Football Fashion</a>
-                                                        </li>
-                                                        <li class="submenu-item "><a href="https://sabnanifootball.mysirclo.com/products/category/apparel/training-wear">Training Wear</a>
-                                                        </li>
-                                                        <li class="submenu-item  last"><a href="https://sabnanifootball.mysirclo.com/products/category/apparel/team-custom">Team Custom</a>
-                                                        </li>
-                                                    </ul>
-
-                                                </li>
-
-                                                <li class="menu-item item-4">
-                                                    <a href="https://sabnanifootball.mysirclo.com/products/category/equipment" class="">Equipment</a>
-
-                                                </li>
-
-                                                <li class="menu-item item-5 last">
-                                                    <a href="https://sabnanifootball.mysirclo.com/contact" class="">Contact</a>
-
-                                                </li>
-                                            </ul>
-                                        </div>
-
+<body>
+    <!-- ##### Header Area Start ##### -->
+    <header class="header_area">
+        <div class="classy-nav-container breakpoint-off d-flex align-items-center justify-content-between">
+            <!-- Classy Menu -->
+            <nav class="classy-navbar" id="essenceNav">
+                <!-- Logo -->
+                <a class="nav-brand" href="index.html"><img src="{{ site.logo }}" alt=""></a>
+                <!-- Navbar Toggler -->
+                <div class="classy-navbar-toggler">
+                    <span class="navbarToggler"><span></span><span></span><span></span></span>
+                </div>
+                <!-- Menu -->
+                <div class="classy-menu">
+                    <!-- close btn -->
+                    <div class="classycloseIcon">
+                        <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                    </div>
+                    <!-- Nav Start -->
+                    <div class="classynav">
+                        <ul>
+                            <li><a href="#">Shop</a>
+                                <div class="megamenu">
+                                    <ul class="single-mega cn-col-4">
+                                        <li class="title">Women's Collection</li>
+                                        <li><a href="shop.html">Dresses</a></li>
+                                        <li><a href="shop.html">Blouses &amp; Shirts</a></li>
+                                        <li><a href="shop.html">T-shirts</a></li>
+                                        <li><a href="shop.html">Rompers</a></li>
+                                        <li><a href="shop.html">Bras &amp; Panties</a></li>
                                     </ul>
+                                    <ul class="single-mega cn-col-4">
+                                        <li class="title">Men's Collection</li>
+                                        <li><a href="shop.html">T-Shirts</a></li>
+                                        <li><a href="shop.html">Polo</a></li>
+                                        <li><a href="shop.html">Shirts</a></li>
+                                        <li><a href="shop.html">Jackets</a></li>
+                                        <li><a href="shop.html">Trench</a></li>
+                                    </ul>
+                                    <ul class="single-mega cn-col-4">
+                                        <li class="title">Kid's Collection</li>
+                                        <li><a href="shop.html">Dresses</a></li>
+                                        <li><a href="shop.html">Shirts</a></li>
+                                        <li><a href="shop.html">T-shirts</a></li>
+                                        <li><a href="shop.html">Jackets</a></li>
+                                        <li><a href="shop.html">Trench</a></li>
+                                    </ul>
+                                    <div class="single-mega cn-col-4">
+                                        <img src="img/bg-img/bg-6.jpg" alt="">
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
-                    </nav>
-                </div>
-                <!--end nav for mobile-->
-
-                <div id="header-site-logo">
-                    <div class="wrapper">
-                        <div class="logo">
-                            <a href="/">
-                                <img src="{{site.baseurl}}/images/logo.png">
-                            </a>
-                        </div>
+                            </li>
+                            <li><a href="#">Pages</a>
+                                <ul class="dropdown">
+                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="shop.html">Shop</a></li>
+                                    <li><a href="single-product-details.html">Product Details</a></li>
+                                    <li><a href="checkout.html">Checkout</a></li>
+                                    <li><a href="blog.html">Blog</a></li>
+                                    <li><a href="single-blog.html">Single Blog</a></li>
+                                    <li><a href="regular-page.html">Regular Page</a></li>
+                                    <li><a href="contact.html">Contact</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="blog.html">Blog</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                        </ul>
                     </div>
+                    <!-- Nav End -->
                 </div>
+            </nav>
 
-                <div id="header-shopping-cart" class="span6 col-lg-5 pull-right">
-                    <div class="wrapper">
-                        <div class="cart-item wrapper">
-                            <div class="cart-info">
-                                <a href="https://sabnanifootball.mysirclo.com/cart" id="view_cart">
-
-                                    <span id="total_item_cart" class="header-cart-info">0</span>
-                                </a>
-                            </div>
-                        </div>
-
-                    </div>
+            <!-- Header Meta Data -->
+            <div class="header-meta d-flex clearfix justify-content-end">
+                <!-- Search Area -->
+                <div class="search-area">
+                    <form action="#" method="post">
+                        <input type="search" name="search" id="headerSearch" placeholder="Type for search">
+                        <button type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+                    </form>
+                </div>
+                <!-- Favourite Area -->
+                <div class="favourite-area">
+                    <a href="#"><img src="img/core-img/heart.svg" alt=""></a>
+                </div>
+                <!-- User Login Info -->
+                <div class="user-login-info">
+                    <a href="#"><img src="img/core-img/user.svg" alt=""></a>
+                </div>
+                <!-- Cart Area -->
+                <div class="cart-area">
+                    <a href="#" id="essenceCartBtn"><img src="img/core-img/bag.svg" alt=""> <span>3</span></a>
                 </div>
             </div>
-            <div class="clearfix header-menu hide-mobile">
-                <div class="logo">
-                    <a href="/">
-                        <img src="//files.sirclocdn.xyz/sabnanifootball/settings/_181109154354_Logo-Tipis Putih Transparan.png">
+
+        </div>
+    </header>
+    <!-- ##### Header Area End ##### -->
+
+    <!-- ##### Right Side Cart Area ##### -->
+    <div class="cart-bg-overlay"></div>
+
+    <div class="right-side-cart-area">
+
+        <!-- Cart Button -->
+        <div class="cart-button">
+            <a href="#" id="rightSideCart"><img src="img/core-img/bag.svg" alt=""> <span>3</span></a>
+        </div>
+
+        <div class="cart-content d-flex">
+
+            <!-- Cart List Area -->
+            <div class="cart-list">
+                <!-- Single Cart Item -->
+                <div class="single-cart-item">
+                    <a href="#" class="product-image">
+                        <img src="img/product-img/product-1.jpg" class="cart-thumb" alt="">
+                        <!-- Cart Item Desc -->
+                        <div class="cart-item-desc">
+                          <span class="product-remove"><i class="fa fa-close" aria-hidden="true"></i></span>
+                            <span class="badge">Mango</span>
+                            <h6>Button Through Strap Mini Dress</h6>
+                            <p class="size">Size: S</p>
+                            <p class="color">Color: Red</p>
+                            <p class="price">$45.00</p>
+                        </div>
                     </a>
                 </div>
-                <div class="top-menu">
-                    <ul>
-                        <li class="language-wrap first"> </li>
-                        <li><a href="https://sabnanifootball.mysirclo.com/account/login" class="hd-account">Log In / Sign Up</a></li>
-                        <li><a href="https://sabnanifootball.mysirclo.com/cart">Cart</a>
-                        </li>
-                        <li class="last"><span class="count-bubble"><span>0</span></span>
-                        </li>
-                    </ul>
+
+                <!-- Single Cart Item -->
+                <div class="single-cart-item">
+                    <a href="#" class="product-image">
+                        <img src="img/product-img/product-2.jpg" class="cart-thumb" alt="">
+                        <!-- Cart Item Desc -->
+                        <div class="cart-item-desc">
+                          <span class="product-remove"><i class="fa fa-close" aria-hidden="true"></i></span>
+                            <span class="badge">Mango</span>
+                            <h6>Button Through Strap Mini Dress</h6>
+                            <p class="size">Size: S</p>
+                            <p class="color">Color: Red</p>
+                            <p class="price">$45.00</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Single Cart Item -->
+                <div class="single-cart-item">
+                    <a href="#" class="product-image">
+                        <img src="img/product-img/product-3.jpg" class="cart-thumb" alt="">
+                        <!-- Cart Item Desc -->
+                        <div class="cart-item-desc">
+                          <span class="product-remove"><i class="fa fa-close" aria-hidden="true"></i></span>
+                            <span class="badge">Mango</span>
+                            <h6>Button Through Strap Mini Dress</h6>
+                            <p class="size">Size: S</p>
+                            <p class="color">Color: Red</p>
+                            <p class="price">$45.00</p>
+                        </div>
+                    </a>
                 </div>
             </div>
 
-            <div id="menu" class="clearfix hide-mobile">
-                <div class="main-menu">
-                    <ul class="clearfix menu-listing">
+            <!-- Cart Summary -->
+            <div class="cart-amount-summary">
 
-                        <li class="menu-item item-0 first">
-                            <a href="https://sabnanifootball.mysirclo.com/blog" class="">news</a>
-
-                        </li>
-
-                        <li class="menu-item item-1">
-                            <a href="https://sabnanifootball.mysirclo.com/stadium" class="">Stadium</a>
-
-                        </li>
-
-                        <li class="menu-item parent item-2">
-                            <a href="https://sabnanifootball.mysirclo.com/products/category/clubs" class="dropdown-toggle">Clubs</a>
-
-                            <ul class="sub-nav dropdown-menu hidden-phone hidden-tablet ">
-                                <li class="submenu-item  first last"><a href="https://sabnanifootball.mysirclo.com/products/category/clubs/serpong-city-fc">Serpong City FC</a>
-                                </li>
-                            </ul>
-
-                        </li>
-
-                        <li class="menu-item parent item-3">
-                            <a href="https://sabnanifootball.mysirclo.com/products/category/apparel" class="dropdown-toggle">Apparel</a>
-
-                            <ul class="sub-nav dropdown-menu hidden-phone hidden-tablet ">
-                                <li class="submenu-item  first"><a href="https://sabnanifootball.mysirclo.com/products/category/apparel/football-fashion">Football Fashion</a>
-                                </li>
-                                <li class="submenu-item "><a href="https://sabnanifootball.mysirclo.com/products/category/apparel/training-wear">Training Wear</a>
-                                </li>
-                                <li class="submenu-item  last"><a href="https://sabnanifootball.mysirclo.com/products/category/apparel/team-custom">Team Custom</a>
-                                </li>
-                            </ul>
-
-                        </li>
-
-                        <li class="menu-item item-4">
-                            <a href="https://sabnanifootball.mysirclo.com/products/category/equipment" class="">Equipment</a>
-
-                        </li>
-
-                        <li class="menu-item item-5 last">
-                            <a href="https://sabnanifootball.mysirclo.com/contact" class="">Contact</a>
-
-                        </li>
-                    </ul>
+                <h2>Summary</h2>
+                <ul class="summary-table">
+                    <li><span>subtotal:</span> <span>$274.00</span></li>
+                    <li><span>delivery:</span> <span>Free</span></li>
+                    <li><span>discount:</span> <span>-15%</span></li>
+                    <li><span>total:</span> <span>$232.00</span></li>
+                </ul>
+                <div class="checkout-btn mt-100">
+                    <a href="checkout.html" class="btn essence-btn">check out</a>
                 </div>
-
-                <div class="main-menu menu-select">
-                    <select class="main-menu-select">
-                        <option>MENU</option>
-
-                        <option value="https://sabnanifootball.mysirclo.com/blog">news</option>
-
-                        <option value="https://sabnanifootball.mysirclo.com/stadium">Stadium</option>
-
-                        <option value="https://sabnanifootball.mysirclo.com/products/category/clubs">Clubs</option>
-                        <option value="https://sabnanifootball.mysirclo.com/products/category/clubs/serpong-city-fc">- Serpong City FC</option>
-
-                        <option value="https://sabnanifootball.mysirclo.com/products/category/apparel">Apparel</option>
-                        <option value="https://sabnanifootball.mysirclo.com/products/category/apparel/football-fashion">- Football Fashion</option>
-
-                        <option value="https://sabnanifootball.mysirclo.com/products/category/apparel/training-wear">- Training Wear</option>
-
-                        <option value="https://sabnanifootball.mysirclo.com/products/category/apparel/team-custom">- Team Custom</option>
-
-                        <option value="https://sabnanifootball.mysirclo.com/products/category/equipment">Equipment</option>
-
-                        <option value="https://sabnanifootball.mysirclo.com/contact">Contact</option>
-                    </select>
-                </div>
-
-                <form id="search" action="https://sabnanifootball.mysirclo.com/products/search" method="get" class="clearfix">
-                    <input class="required search" id="query" type="text" name="query" placeholder="Search" value="">
-                    <input class="submit" type="submit" value="">
-                </form>
-
             </div>
-
         </div>
     </div>
-    <!-- // end header -->
-    <!-- middle -->
-    <div id="middle">
-        <div id="slider">
-            <div class="banner flexslider">
-                <div class="flex-viewport" style="overflow: hidden; position: relative; height: 563px;">
-                    <ul class="slides slides-listing" style="width: 1000%; transition-duration: 0s; transform: translate3d(-1440px, 0px, 0px);">
-                        <li class="last clone" style="width: 1440px; float: left; display: block;">
-                            <div class="slide-item">
-                                <div class="slide-image">
-                                    <a href="/stadium"> <img src="//files.sirclocdn.xyz/sabnanifootball/banners/_181106171920_IMG_20180807_141517_ori.jpg" alt="Lapangan">
-                                    </a>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="first flex-active-slide" style="width: 1440px; float: left; display: block;">
-                            <div class="slide-item">
-                                <div class="slide-image">
-                                    <a href="/products/all"> <img src="//files.sirclocdn.xyz/bagaskara-staging/banners/131206175405_banner3_ori_ori.jpg" alt="Slide Sample 3">
-                                    </a>
-                                </div>
-                            </div>
-                        </li>
-                        <li style="width: 1440px; float: left; display: block;" class="">
-                            <div class="slide-item">
-                                <div class="slide-image">
-                                    <a href="/products/category/apparel/team-custom"> <img src="//files.sirclocdn.xyz/bagaskara-staging/banners/131206175337_banner2_ori_ori.jpg" alt="costum jersey">
-                                    </a>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="last" style="width: 1440px; float: left; display: block;">
-                            <div class="slide-item">
-                                <div class="slide-image">
-                                    <a href="/stadium"> <img src="//files.sirclocdn.xyz/sabnanifootball/banners/_181106171920_IMG_20180807_141517_ori.jpg" alt="Lapangan">
-                                    </a>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="first clone" style="width: 1440px; float: left; display: block;">
-                            <div class="slide-item">
-                                <div class="slide-image">
-                                    <a href="/products/all"> <img src="//files.sirclocdn.xyz/bagaskara-staging/banners/131206175405_banner3_ori_ori.jpg" alt="Slide Sample 3">
-                                    </a>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
+    <!-- ##### Right Side Cart End ##### -->
+
+    <!-- ##### Welcome Area Start ##### -->
+    <section class="welcome_area bg-img background-overlay" style="background-image: url(img/bg-img/bg-1.jpg);">
+        <div class="container h-100">
+            <div class="row h-100 align-items-center">
+                <div class="col-12">
+                    <div class="hero-content">
+                        <h6>asoss</h6>
+                        <h2>New Collection</h2>
+                        <a href="#" class="btn essence-btn">view collection</a>
+                    </div>
                 </div>
-                <ol class="flex-control-nav flex-control-paging">
-                    <li><a class="flex-active">1</a></li>
-                    <li><a class="">2</a></li>
-                    <li><a class="">3</a></li>
-                </ol>
-                <ul class="flex-direction-nav">
-                    <li><a class="flex-prev" href="#">Previous</a></li>
-                    <li><a class="flex-next" href="#">Next</a></li>
-                </ul>
             </div>
         </div>
-        <div class="home-widget grid clearfix">
-            <div class="widget ">
-                <p><img src="https://files.sirclocdn.xyz/sabnanifootball/files/IMG_20180807_141633.jpg" width="4160" height="3120"></p>
-            </div>
-            <div class="widget  middle">
-                <p><img src="https://files.sirclocdn.xyz/sabnanifootball/files/poster%20custom%20jersey-2.jpg" width="3337" height="1598"></p>
-            </div>
-            <div class="widget ">
-                <p><img src="https://files.sirclocdn.xyz/sabnanifootball/files/Sabnani%20Sports%20Pants%20%282%29.jpg" width="3120" height="4160"></p>
+    </section>
+    <!-- ##### Welcome Area End ##### -->
+
+    <!-- ##### Top Catagory Area Start ##### -->
+    <div class="top_catagory_area section-padding-80 clearfix">
+        <div class="container">
+            <div class="row justify-content-center">
+                <!-- Single Catagory -->
+                <div class="col-12 col-sm-6 col-md-4">
+                    <div class="single_catagory_area d-flex align-items-center justify-content-center bg-img" style="background-image: url(img/bg-img/bg-2.jpg);">
+                        <div class="catagory-content">
+                            <a href="#">Clothing</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Single Catagory -->
+                <div class="col-12 col-sm-6 col-md-4">
+                    <div class="single_catagory_area d-flex align-items-center justify-content-center bg-img" style="background-image: url(img/bg-img/bg-3.jpg);">
+                        <div class="catagory-content">
+                            <a href="#">Shoes</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Single Catagory -->
+                <div class="col-12 col-sm-6 col-md-4">
+                    <div class="single_catagory_area d-flex align-items-center justify-content-center bg-img" style="background-image: url(img/bg-img/bg-4.jpg);">
+                        <div class="catagory-content">
+                            <a href="#">Accessories</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-        <div class="short-about">
-            <div class="grid ">
-                <div class="single-first-p" style="text-align: justify;">
+    </div>
+    <!-- ##### Top Catagory Area End ##### -->
+
+    <!-- ##### CTA Area Start ##### -->
+    <div class="cta-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="cta-content bg-img background-overlay" style="background-image: url(img/bg-img/bg-5.jpg);">
+                        <div class="h-100 d-flex align-items-center justify-content-end">
+                            <div class="cta--text">
+                                <h6>-60%</h6>
+                                <h2>Global Sale</h2>
+                                <a href="#" class="btn essence-btn">Buy Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ##### CTA Area End ##### -->
+
+    <!-- ##### New Arrivals Area Start ##### -->
+    <section class="new_arrivals_area section-padding-80 clearfix">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-heading text-center">
+                        <h2>Popular Products</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="popular-products-slides owl-carousel">
+
+                        <!-- Single Product -->
+                        <div class="single-product-wrapper">
+                            <!-- Product Image -->
+                            <div class="product-img">
+                                <img src="img/product-img/product-1.jpg" alt="">
+                                <!-- Hover Thumb -->
+                                <img class="hover-img" src="img/product-img/product-2.jpg" alt="">
+                                <!-- Favourite -->
+                                <div class="product-favourite">
+                                    <a href="#" class="favme fa fa-heart"></a>
+                                </div>
+                            </div>
+                            <!-- Product Description -->
+                            <div class="product-description">
+                                <span>topshop</span>
+                                <a href="single-product-details.html">
+                                    <h6>Knot Front Mini Dress</h6>
+                                </a>
+                                <p class="product-price">$80.00</p>
+
+                                <!-- Hover Content -->
+                                <div class="hover-content">
+                                    <!-- Add to Cart -->
+                                    <div class="add-to-cart-btn">
+                                        <a href="#" class="btn essence-btn">Add to Cart</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Single Product -->
+                        <div class="single-product-wrapper">
+                            <!-- Product Image -->
+                            <div class="product-img">
+                                <img src="img/product-img/product-2.jpg" alt="">
+                                <!-- Hover Thumb -->
+                                <img class="hover-img" src="img/product-img/product-3.jpg" alt="">
+                                <!-- Favourite -->
+                                <div class="product-favourite">
+                                    <a href="#" class="favme fa fa-heart"></a>
+                                </div>
+                            </div>
+                            <!-- Product Description -->
+                            <div class="product-description">
+                                <span>topshop</span>
+                                <a href="single-product-details.html">
+                                    <h6>Poplin Displaced Wrap Dress</h6>
+                                </a>
+                                <p class="product-price">$80.00</p>
+
+                                <!-- Hover Content -->
+                                <div class="hover-content">
+                                    <!-- Add to Cart -->
+                                    <div class="add-to-cart-btn">
+                                        <a href="#" class="btn essence-btn">Add to Cart</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Single Product -->
+                        <div class="single-product-wrapper">
+                            <!-- Product Image -->
+                            <div class="product-img">
+                                <img src="img/product-img/product-3.jpg" alt="">
+                                <!-- Hover Thumb -->
+                                <img class="hover-img" src="img/product-img/product-4.jpg" alt="">
+
+                                <!-- Product Badge -->
+                                <div class="product-badge offer-badge">
+                                    <span>-30%</span>
+                                </div>
+
+                                <!-- Favourite -->
+                                <div class="product-favourite">
+                                    <a href="#" class="favme fa fa-heart"></a>
+                                </div>
+                            </div>
+                            <!-- Product Description -->
+                            <div class="product-description">
+                                <span>mango</span>
+                                <a href="single-product-details.html">
+                                    <h6>PETITE Crepe Wrap Mini Dress</h6>
+                                </a>
+                                <p class="product-price"><span class="old-price">$75.00</span> $55.00</p>
+
+                                <!-- Hover Content -->
+                                <div class="hover-content">
+                                    <!-- Add to Cart -->
+                                    <div class="add-to-cart-btn">
+                                        <a href="#" class="btn essence-btn">Add to Cart</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Single Product -->
+                        <div class="single-product-wrapper">
+                            <!-- Product Image -->
+                            <div class="product-img">
+                                <img src="img/product-img/product-4.jpg" alt="">
+                                <!-- Hover Thumb -->
+                                <img class="hover-img" src="img/product-img/product-5.jpg" alt="">
+
+                                <!-- Product Badge -->
+                                <div class="product-badge new-badge">
+                                    <span>New</span>
+                                </div>
+
+                                <!-- Favourite -->
+                                <div class="product-favourite">
+                                    <a href="#" class="favme fa fa-heart"></a>
+                                </div>
+                            </div>
+                            <!-- Product Description -->
+                            <div class="product-description">
+                                <span>mango</span>
+                                <a href="single-product-details.html">
+                                    <h6>PETITE Belted Jumper Dress</h6>
+                                </a>
+                                <p class="product-price">$80.00</p>
+
+                                <!-- Hover Content -->
+                                <div class="hover-content">
+                                    <!-- Add to Cart -->
+                                    <div class="add-to-cart-btn">
+                                        <a href="#" class="btn essence-btn">Add to Cart</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ##### New Arrivals Area End ##### -->
+
+    <!-- ##### Brands Area Start ##### -->
+    <div class="brands-area d-flex align-items-center justify-content-between">
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="img/core-img/brand1.png" alt="">
+        </div>
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="img/core-img/brand2.png" alt="">
+        </div>
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="img/core-img/brand3.png" alt="">
+        </div>
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="img/core-img/brand4.png" alt="">
+        </div>
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="img/core-img/brand5.png" alt="">
+        </div>
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="img/core-img/brand6.png" alt="">
+        </div>
+    </div>
+    <!-- ##### Brands Area End ##### -->
+
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer_area clearfix">
+        <div class="container">
+            <div class="row">
+                <!-- Single Widget Area -->
+                <div class="col-12 col-md-6">
+                    <div class="single_widget_area d-flex mb-30">
+                        <!-- Logo -->
+                        <div class="footer-logo mr-50">
+                            <a href="#"><img src="img/core-img/logo2.png" alt=""></a>
+                        </div>
+                        <!-- Footer Menu -->
+                        <div class="footer_menu">
+                            <ul>
+                                <li><a href="shop.html">Shop</a></li>
+                                <li><a href="blog.html">Blog</a></li>
+                                <li><a href="contact.html">Contact</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- Single Widget Area -->
+                <div class="col-12 col-md-6">
+                    <div class="single_widget_area mb-30">
+                        <ul class="footer_widget_menu">
+                            <li><a href="#">Order Status</a></li>
+                            <li><a href="#">Payment Options</a></li>
+                            <li><a href="#">Shipping and Delivery</a></li>
+                            <li><a href="#">Guides</a></li>
+                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="#">Terms of Use</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row align-items-end">
+                <!-- Single Widget Area -->
+                <div class="col-12 col-md-6">
+                    <div class="single_widget_area">
+                        <div class="footer_heading mb-30">
+                            <h6>Subscribe</h6>
+                        </div>
+                        <div class="subscribtion_form">
+                            <form action="#" method="post">
+                                <input type="email" name="mail" class="mail" placeholder="Your email here">
+                                <button type="submit" class="submit"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <!-- Single Widget Area -->
+                <div class="col-12 col-md-6">
+                    <div class="single_widget_area">
+                        <div class="footer_social_area">
+                            <a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                            <a href="#" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                            <a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                            <a href="#" data-toggle="tooltip" data-placement="top" title="Pinterest"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+                            <a href="#" data-toggle="tooltip" data-placement="top" title="Youtube"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+<div class="row mt-5">
+                <div class="col-md-12 text-center">
                     <p>
-                        <br>
-                        <br>
-                        <br>
+                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </p>
                 </div>
             </div>
-        </div>
-    </div>
-    <!-- // middle -->
-    <div id="footer">
-      <div class="grid footer-holder clearfix">
-          <div class="foot-block first-block">
-              <h3>CATEGORIES<a href="/about" style="font-size: 10px;"><br></a></h3>
-              <ul>
-                  <li class="first"><a href="/about">About Us</a></li>
-                  <li><a href="/stadium">Stadium</a></li>
-                  <li><a href="/clubs">Clubs</a></li>
-                  <li><a href="/apparel">Apparel</a></li>
-                  <li class="last"><a href="/equipment">Equipment</a></li>
-              </ul>
-          </div>
-          <div class="foot-block">
-              <h3>CUSTOMER SERVICE</h3>
-              <ul>
-                  <li class="first">
-                      <a href="/about-us"></a>
-                  </li>
-                  <li><a href="/contact">Contact Us</a></li>
-                  <li><a href="/blog">Blog</a></li>
-                  <li><a href="/legal/privacy-policy">Privacy Policy</a></li>
-                  <li class="last"><a href="/payment_notif">Payment Confirmation</a></li>
-              </ul>
-          </div>
-          <div class="foot-block">
-              <h3></h3>
-              <ul>
-                  <li class="first"><a href="/faqs">FAQs</a></li>
-                  <li><a href="/CUSTOMER_SERVICE/shipping-and-returns">Shipping and Returns</a></li>
-                  <li><a href="/CUSTOMER_SERVICE/international-shipping">International Shipping</a></li>
-                  <li class="last"><a href="/CUSTOMER_SERVICE/track-your-order">Track Your Order</a></li>
-              </ul>
-          </div>
-          <div class="foot-block">
-              <h3>Newsletter</h3>
-              <form id="newsletter" action="https://sabnanifootball.mysirclo.com/newsletter" method="post">
-                  <input class="required email" id="email" type="text" name="email" placeholder="Your Email Address">
-                  <input class="submit" type="submit" value="OK">
-              </form>
 
-              <div style="clear:both;" class="clearfix soc">
-                  <h3>Our Social Media</h3>
-                  <a href="https://twitter.com/sabnanifootball" class="soc_tw sc" target="_blank"></a>
-                  <a href="http://www.facebook.com/sabnanifootball" class="soc_fb sc" target="_blank"></a>
-                  <a href="https://www.instagram.com/sabnanifootball" class="soc_insta sc" target="_blank"></a>
-              </div>
-          </div>
-      </div>
-      <div class="footer-credit">
-          <div class="grid clearfix">
-              <span class="copyright"><ul>
-  <li class="first"><span style="line-height: 1.5;"><ul>
-  <li class="first last">FUTURE BEGINS HERE</li>
-  </ul></span></li>
-              <li class="last">
-                  Powered By <a href="//sirclo.com" target="_blank">SIRCLO</a>.
-              </li>
-              </ul>
-              </span>
-          </div>
-      </div>
-  </div>
+        </div>
+    </footer>
+    <!-- ##### Footer Area End ##### -->
+
+    <!-- jQuery (Necessary for All JavaScript Plugins) -->
+    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="js/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Plugins js -->
+    <script src="js/plugins.js"></script>
+    <!-- Classy Nav js -->
+    <script src="js/classy-nav.min.js"></script>
+    <!-- Active js -->
+    <script src="js/active.js"></script>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     {% include analytics.html %}
   </body>
 </html>
