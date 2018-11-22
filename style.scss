@@ -396,9 +396,10 @@ img {
     }
     .classynav ul li a {
         font-size: 16px;
-        color: $text-color;
+        color: #111;
+        background-color: transparent;
         &:hover {
-            color: $dark-color;
+            color: #000;
         }
     }
     .classynav ul li .megamenu li a,
