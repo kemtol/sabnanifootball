@@ -823,6 +823,17 @@ img {
         left: 0;
         z-index: -10;
     }
+    .banner.odd{
+        @media #{$breakpoint-xs} {
+            padding-right:2.5px;
+        }
+    }
+    .banner.even{
+        @media #{$breakpoint-xs} {
+            padding-left:2.5px;
+        }
+    }
+    
     .catagory-content {
         a {
             display: block;
