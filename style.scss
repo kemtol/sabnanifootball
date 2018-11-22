@@ -354,7 +354,7 @@ img {
         height: 85px;
         padding: 5px 0 5px 5%;
         @media #{$breakpoint-xs} {
-            height: 40px;
+            height: 100px;
             border-bottom: 1px solid $border-color;
         }
     }
