@@ -770,9 +770,10 @@ img {
             margin-bottom: 10px;
         }
         h2 {
-            font-size: 60px;
-            color: $heading-color;
+            font-size: 72px;
+            color: #fff;
             margin-bottom: 50px;
+            font-style:italic;
             @media #{$breakpoint-md} {
                 font-size: 48px;
             }
@@ -814,9 +815,9 @@ img {
     .catagory-content {
         a {
             display: block;
-            font-size: 30px;
+            font-size: 42px;
             font-weight: 700;
-            color: $dark-color;
+            color: #fff;
             letter-spacing: 1px;
             text-transform: uppercase;
             @media #{$breakpoint-md} {
@@ -830,7 +831,7 @@ img {
     &:hover {
         .catagory-content {
             a {
-                color: $bg-default;
+                color: #eee;
             }
         }
     }
