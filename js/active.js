@@ -12,7 +12,7 @@
     if ($.fn.owlCarousel) {
         $('.popular-products-slides').owlCarousel({
             items: 4,
-            margin: 30,
+            margin: 10,
             loop: true,
             nav: false,
             dots: false,
