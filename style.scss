@@ -850,12 +850,12 @@ img {
         }
         h6 {
             font-size: 24px;
-            color: $hover-color;
+            color: orange;
             margin-bottom: 10px;
         }
         h2 {
-            font-size: 60px;
-            color: $heading-color;
+            font-size: 48px;
+            color: #fff;
             margin-bottom: 50px;
             @media #{$breakpoint-md} {
                 font-size: 48px;
