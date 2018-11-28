@@ -92,7 +92,7 @@
     }
 
     // :: Slider Range Price Active Code
-    $('.slider-range-price').each(function () {
+    /*$('.slider-range-price').each(function () {
         var min = jQuery(this).data('min');
         var max = jQuery(this).data('max');
         var unit = jQuery(this).data('unit');
@@ -111,7 +111,7 @@
                 t.closest('.slider-range').find('.range-price').html(result);
             }
         });
-    });
+    });*/
 
     // :: Favorite Button Active Code
     var favme = $(".favme");
