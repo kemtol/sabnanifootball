@@ -2,17 +2,22 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<!-- ##### Welcome Area Start ##### -->
+{% include jumbotron.html %}
+<!-- ##### Welcome Area End ##### -->
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<!-- ##### Top Catagory Area Start ##### -->
+{% include front-category-banner.html %}
+<!-- ##### Top Catagory Area End ##### -->
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+<!-- ##### CTA Area Start ##### -->
+{% include teamwear-banner.html %}
+<!-- ##### CTA Area End ##### -->
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+<!-- ##### New Arrivals Area Start ##### -->
+{% include front-products-showcase.html %}
+<!-- ##### New Arrivals Area End ##### -->
+
+<!-- ##### Brands Area Start ##### -->
+{% include front-brands.html %} 
+<!-- ##### Brands Area End ##### -->
