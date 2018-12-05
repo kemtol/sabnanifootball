@@ -10,4 +10,6 @@ stock: 100
 layout: product
 ---
 
+![jersey-1.jpg](/uploads/jersey-1.jpg)![jersey-2.jpg](/uploads/jersey-2.jpg)
+
 Mauris viverra cursus ante laoreet eleifend. Donec vel fringilla ante. Aenean finibus velit id urna vehicula, nec maximus est sollicitudin.
