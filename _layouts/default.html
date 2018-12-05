@@ -46,7 +46,7 @@
     <script>
       $(function() {
       // inject carousel untuk gambar di halaman ini
-          var i = 1;
+          var i = 0;
           $(".product-description img").each(function( index ) {
             var img = "{{site.url}}/" + $(this).attr("src");
             $('<div class="item"><img src="'+ img +'"><div class="carousel-caption"></div>   </div>').appendTo('.carousel-inner');
