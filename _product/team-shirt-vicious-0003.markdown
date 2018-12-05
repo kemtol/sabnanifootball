@@ -5,6 +5,7 @@ categories:
 - teamwear
 price: 150000
 saleprice: 100000
+stock: 100
 ---
 
 Mauris viverra cursus ante laoreet eleifend. Donec vel fringilla ante. Aenean finibus velit id urna vehicula, nec maximus est sollicitudin.
