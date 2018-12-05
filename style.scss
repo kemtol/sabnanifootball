@@ -1188,7 +1188,7 @@ img {
     .single_product_desc {
         position: relative;
         z-index: 1;
-        padding: 50px 5%;
+        padding: 5%;
         @media #{$breakpoint-lg} {
             padding: 30px 4%;
         }
