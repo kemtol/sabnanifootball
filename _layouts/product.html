@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-
+<style>
+    .product-description img{
+        display:none;
+    }
+</style>    
 <section class="single_product_details_area d-flex align-items-center">
 
         <!-- Single Product Thumb -->
@@ -19,9 +23,11 @@ layout: default
             <a href="cart.html">
                 <h2>{{ page.title }}</h2>
             </a>
-            <p class="product-price"><span class="old-price">$65.00</span> $49.00</p>
-            {{ content }}
-
+            <p class="product-price"><span class="old-price">{{ page.price }}</span> {{ page.saleprice }}</p>
+            <div class="product-description">
+                {{ content }}
+            </div>
+                
             <!-- Form -->
             <form class="cart-form clearfix" method="post">
                 <!-- Select Box -->
