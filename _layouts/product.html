@@ -57,15 +57,12 @@ layout: default
 <script>
   $(function() {
   // inject carousel untuk gambar di halaman ini
-  var i = 0;
-  $(".product-description img").each(function( index ) {
-    var img = $(this).attr("src");
-    console.log(img);
-    /*$('<div class="item"><img src="'+ img +'"><div class="carousel-caption"></div>   </div>').appendTo('.carousel-inner');
-    $('<li data-target="#carousel-example-generic" data-slide-to="'+i+'"></li>').appendTo('.carousel-indicators');*/
-    i++;
-  });
-  
-    
+      var i = 0;
+      $(".product-description img").each(function( index ) {
+        var img = $(this).attr("src");
+        console.log(img);
+        $('<img src="' + img + ' " alt="">').appendTo('.product_thumbnail_slides');
+        i++;
+      });  
   });
 </script>
