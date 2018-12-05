@@ -56,7 +56,7 @@ layout: default
   // inject carousel untuk gambar di halaman ini
       var i = 0;
       $(".product-description img").each(function( index ) {
-        var img = "{{base.url}}/" $(this).attr("src");
+        var img = "{{site.url}}/" + $(this).attr("src");
         $('<img src="' + img + ' " alt="">').appendTo('.product_thumbnail_slides');
         i++;
       });  
