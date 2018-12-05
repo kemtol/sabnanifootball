@@ -6,6 +6,15 @@
     <!-- Favicon  -->
     <link rel="icon" href="{{ site.baseurl }}/img/core-img/favicon.ico">
     
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <!--<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/core-style.css">-->
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    
     <!-- jQuery (Necessary for All JavaScript Plugins) -->
     <script src="{{ site.baseurl }}/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
@@ -19,14 +28,6 @@
     <!-- Active js -->
     <script src="{{ site.baseurl }}/js/active.js"></script>
     
-    {% include meta.html %}
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-    <!--<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/core-style.css">-->
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
