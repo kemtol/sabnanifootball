@@ -12,8 +12,8 @@ layout: default
     <!-- Single Product Thumb -->
     <div class="single_product_thumb clearfix">
         <div class="product_thumbnail_slides owl-carousel">
-            <img src="http://sabnani.co.id//uploads/jersey-1.jpg " alt="">
-            <img src="http://sabnani.co.id//uploads/jersey-2.jpg " alt="">
+            <img src="http://sabnani.co.id//uploads/jersey-1.jpg" id="thumb1" alt="">
+            <img src="http://sabnani.co.id//uploads/jersey-2.jpg" id="thumb2" alt="">
         </div>
     </div>
 
@@ -54,14 +54,14 @@ layout: default
     </div>
 </section>
 <script>
-/*  $(function() {
+  $(function() {
   // inject carousel untuk gambar di halaman ini
-      var i = 0;
+      var i = 1;
       $(".product-description img").each(function( index ) {
         var img = "{{site.url}}/" + $(this).attr("src");
-          console.log(img);
-        $('<img src="' + img + ' " alt="">').appendTo('.product_thumbnail_slides');
+        console.log(img);
+        $('#thumb' + i).attr("src",img);
         i++;
       });  
-  });*/
+  });
 </script>
