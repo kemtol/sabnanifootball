@@ -7,6 +7,7 @@ categories:
 price: 150000
 saleprice: 100000
 stock: 100
+cover: "/uploads/baju-default.jpeg"
 layout: product
 ---
 
