@@ -1109,6 +1109,7 @@ img {
     z-index: 1;
     background-color: $bg-gray;
     padding: 100px 5%;
+    overflow:auto;
     @media #{$breakpoint-xs} {
         @include flex-wrap(wrap);
         padding: 100px 5% 70px;
