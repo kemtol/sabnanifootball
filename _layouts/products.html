@@ -27,7 +27,13 @@ layout: default
                     <div class="widget catagory mb-50">
                         <!-- Widget Title -->
                         <h6 class="widget-title mb-30">Catagories</h6>
-
+                        
+                        <div class="catagories-menu">
+                        {% for cat in site.categories %}
+                            <li>{{ cat[0] }}</li>
+                        {% endfor %}
+                        </div>
+                        
                         <!--  Catagories  -->
                         <div class="catagories-menu">
                             <ul id="menu-content2" class="menu-content collapse show">
