@@ -31,7 +31,7 @@ layout: default
                                 <div class="product-topbar d-flex align-items-center justify-content-between">
                                     <!-- Total Products -->
                                     <div class="total-products">
-                                        <p><span>{{ site.product | size }}</span> products found</p>
+                                        <p><span>{{ site.product[current_cat] | size }}</span> products found</p>
                                     </div>
                                     <!-- Sorting -->
                                     <div class="product-sorting d-none">
@@ -51,7 +51,7 @@ layout: default
                         </div>
 
                         <div class="row">
-                            {% for item in site.product %}
+                            {% for item in site.product[current_cat] %}
                             <!-- Single Product -->
                             <div class="col-12 col-sm-6 col-lg-4">
                               <div class="single-product-wrapper">
