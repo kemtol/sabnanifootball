@@ -1,13 +1,13 @@
 ---
 title: TEAM SHIRT ARROW 0002
-date: 2018-11-29 10:53:00 Z
+date: 2018-11-29 17:53:00 +07:00
 permalink: "/product/arrow.html"
 categories:
 - teamwear
 price: 150000
 stock: 12
 cover: "/uploads/jersey-1.jpg"
-layout: products
+layout: product
 ---
 
 ![jersey-1.jpg](/uploads/jersey-1.jpg)
