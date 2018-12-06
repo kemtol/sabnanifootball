@@ -4,6 +4,8 @@ date: 2018-12-06 18:38:00 +07:00
 permalink: "/product/apparel/nike-sbanani.html"
 categories:
 - apparel
+price: 1500000
+cover: "/uploads/baju-default.jpeg"
 ---
 
 ![baju-default.jpeg](/uploads/baju-default.jpeg)
