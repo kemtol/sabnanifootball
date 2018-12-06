@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign current_cat = page.permalink %}
+{% assign current_cat = page.permalink | split: "/" | last%} %}
 
 <!-- ##### Breadcumb Area Start ##### -->
 <div class="breadcumb_area bg-img" style="background-image: url({{site.baseurl}}/img/bg-img/breadcumb.jpg);">
