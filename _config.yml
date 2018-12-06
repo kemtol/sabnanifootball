@@ -15,6 +15,7 @@ defaults:
 - scope:
     path: ''
     type: product
+    permalink: /:collection/:name
   values:
     layout: product
 - scope:
@@ -38,7 +39,7 @@ disqus:
 google_analytics: 
 url: http://sabnani.co.id
 baseurl: ''
-permalink: /:collecttion/:title/
+permalink: /:title/
 version: v1.2.0
 kramdown:
   input: GFM
