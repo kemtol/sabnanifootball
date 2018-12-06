@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% assign current_cat = page.permalink | split: "/" | last %}
-{% assign products = site.product | where: "categories", [current_cat] | sort:"date" | reverse %}
+{% assign products = site.product | where: "categories", current_cat | sort:"date" | reverse %}
 <!-- ##### Breadcumb Area Start ##### -->
 <div class="breadcumb_area bg-img" style="background-image: url({{site.baseurl}}/img/bg-img/breadcumb.jpg);">
     <div class="container h-100">
