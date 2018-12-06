@@ -1,6 +1,7 @@
 ---
 title: TEAM SHIRT ARROW 0002
 date: 2018-11-29 10:53:00 Z
+permalink: "/product/arrow.html"
 categories:
 - teamwear
 price: 150000
