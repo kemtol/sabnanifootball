@@ -17,7 +17,7 @@ defaults:
     type: product
   values:
     layout: product
-    permalink: "/:collection/:title/"
+    permalink: "/:collection/:path/"
 - scope:
     path: ''
     type: posts
