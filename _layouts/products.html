@@ -96,7 +96,60 @@ layout: default
             </div>
 
             <div class="col-12 col-md-8 col-lg-9">
-                {{ content }}
+                
+                <!-- content -->
+                <div class="shop_grid_product_area">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="product-topbar d-flex align-items-center justify-content-between">
+                                    <!-- Total Products -->
+                                    <div class="total-products">
+                                        <p><span>{{ site.product | size }}</span> products found</p>
+                                    </div>
+                                    <!-- Sorting -->
+                                    <div class="product-sorting d-none">
+                                        <p>Sort by:</p>
+                                        <form action="#" method="get">
+                                            <select name="select" id="sortByselect">
+                                                <option value="value">Highest Rated</option>
+                                                <option value="value">Newest</option>
+                                                <option value="value">Price: $$ - $</option>
+                                                <option value="value">Price: $ - $$</option>
+                                            </select>
+                                            <input type="submit" class="d-none" value="">
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            {% for item in site.product %}
+                            <!-- Single Product -->
+                            <div class="col-12 col-sm-6 col-lg-4">
+                              <div class="single-product-wrapper">
+                                <!-- Product Image -->
+                                <div class="product-img">
+                                    <img src="{{item.cover}}" alt="">
+                                    <!-- Hover Thumb -->
+                                    <img class="hover-img" src="https://u.imageresize.org/v2/0b2bc959-1570-4180-b8a3-f05c32039701.jpeg" alt="">
+                                </div>
+                                <!-- Product Description -->
+                                <div class="product-description">
+                                    <span class="d-none">topshop</span>
+                                    <a href="{{ item.permalink }}">
+                                        <h6>{{ item.title }}</h6>
+                                    </a>
+                                    <p class="product-price">Rp {{ item.price }}</p>
+                                </div>
+                              </div>
+                            </div>
+
+                           {% endfor %}
+                      </div>
+                  </div>
+                
+                <!-- // eo content -->
                 
                 <!-- Pagination -->
                 <nav aria-label="navigation">
