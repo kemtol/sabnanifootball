@@ -17,7 +17,7 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: Nav
+    type: nav
   values:
     layout: products
     permalink: "/product/"
