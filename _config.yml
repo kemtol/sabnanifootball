@@ -2,6 +2,9 @@
 title: Sabnanifootball
 timezone: UTC
 collections:
+  nav:
+    title: Nav
+    output: true
   posts:
     title: Posts
     output: true
