@@ -43,10 +43,10 @@
                             </li>
                             <li><a href="/buat-baju-futsal-bola-custom.html">Teamwear</a></li>
                             <li><a href="/product/equipment/">Equipment</a></li>-->
-                                {% for me in site.data.menu %}
+                                {% for topmenu in site.nav %}
                                   <li>
-                                    <a href="{{ me.permalink }}">
-                                      {{ me.name }}
+                                    <a href="{{ topmenu.permalink }}">
+                                      {{ topmenu.title }}
                                     </a>
                                   </li>
                                 {% endfor %}
