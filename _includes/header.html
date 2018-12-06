@@ -18,7 +18,7 @@
                     <div class="classynav">
                         <ul>
                             <li><a href="blog.html">BOOK!</a></li>
-                            <li><a href="/product/apparel/">Apparel</a>
+                            <!--<li><a href="/product/apparel/">Apparel</a>
                                 <div class="megamenu container" style="transform: translatex(-50%);left: 50%;">
                                     <ul class="single-mega cn-col-3">
                                         <li class="title">Adult Apparel</li>
@@ -42,7 +42,14 @@
                                 </div>
                             </li>
                             <li><a href="/buat-baju-futsal-bola-custom.html">Teamwear</a></li>
-                            <li><a href="/product/equipment/">Equipment</a></li>
+                            <li><a href="/product/equipment/">Equipment</a></li>-->
+                                {% for menu in site.data.menu %}
+                                  <li>
+                                    <a href="{{ menu.permalink }}">
+                                      {{ menu.name }}
+                                    </a>
+                                  </li>
+                                {% endfor %}
                         </ul>
                     </div>
                     <!-- Nav End -->
