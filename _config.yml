@@ -1,6 +1,6 @@
 ---
 title: Sabnanifootball
-timezone: UTC
+timezone: Asia/Jakarta
 collections:
   nav:
     title: Nav
@@ -46,7 +46,7 @@ footer-links:
 disqus: 
 google_analytics: 
 url: http://sabnani.co.id
-baseurl: ''
+baseurl: 
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
@@ -55,7 +55,7 @@ kramdown:
   syntax_highlighter_opts:
     css_class: highlight
 sass:
-  style: :expanded
+  style: expanded
 gems:
 - jekyll-sitemap
 - jekyll-feed
