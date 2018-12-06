@@ -15,34 +15,22 @@
                   <div class="popular-products-slides owl-carousel">
 
                         
-                        {% for i in (1..5) %}
+                        {% for item in site.product %}
                         <!-- Single Product -->
                         <div class="single-product-wrapper">
                           <!-- Product Image -->
                           <div class="product-img">
-                              <img src="https://u.imageresize.org/v2/0b2bc959-1570-4180-b8a3-f05c32039701.jpeg" alt="">
+                              <img src="{{ ite.cover }}" alt="">
                               <!-- Hover Thumb -->
-                              <img class="hover-img" src="https://u.imageresize.org/v2/0b2bc959-1570-4180-b8a3-f05c32039701.jpeg" alt="">
-                              <!-- Favourite -->
-                              <div class="product-favourite d-none">
-                                  <a href="#" class="favme fa fa-heart"></a>
-                              </div>
+                              <img class="hover-img" src="{{ item.cover }}" alt="">
                           </div>
                           <!-- Product Description -->
                           <div class="product-description">
-                              <span class="d-none">topshop</span>
+                              <span class="d-none">{{item.categories}}</span>
                               <a href="single-product-details.html">
-                                  <h6>TEAM SHIRT CLUB 0001</h6>
+                                  <h6>{{ item.title }}</h6>
                               </a>
-                              <p class="product-price">Rp 150.000,-</p>
-
-                              <!-- Hover Content -->
-                              <div class="hover-content d-none">
-                                  <!-- Add to Cart -->
-                                  <div class="add-to-cart-btn">
-                                      <a href="#" class="btn essence-btn">Add to Cart</a>
-                                  </div>
-                              </div>
+                              <p class="product-price">{{item.price}}</p>
                           </div>
                         </div>
                         {% endfor %}
