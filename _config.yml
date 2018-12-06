@@ -17,10 +17,15 @@ collections:
 defaults:
 - scope:
     path: ''
+    type: Nav
+  values:
+    layout: products
+    permalink: "/product/"
+- scope:
+    path: ''
     type: product
   values:
     layout: product
-    permalink: "/:collection/:name/"
 - scope:
     path: ''
     type: posts
