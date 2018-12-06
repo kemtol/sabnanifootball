@@ -5,8 +5,10 @@ permalink: "/product/jual-bola-mini-soccer.html"
 categories:
 - equipment
 price: 150000
-cover: 
+cover: "/uploads/contoh-item-bola.jpg"
 layout: product
 ---
+
+![contoh-item-bola.jpg](/uploads/contoh-item-bola.jpg)
 
 Sabnani classic soccer ball.
