@@ -51,7 +51,8 @@ layout: default
                         </div>
 
                         <div class="row">
-                            {% for item in site.product | where: "categories", "teamwear" %}
+                            {% assign products = site.product | where: "categories", "equipment" | sort:"date" | reverse %}
+                            {% for item in products %}
                             <!-- Single Product -->
                             <div class="col-12 col-sm-6 col-lg-4">
                               <div class="single-product-wrapper">
