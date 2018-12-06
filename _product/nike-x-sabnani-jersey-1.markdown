@@ -1,6 +1,9 @@
 ---
 title: NIKE x SABNANI JERSEY 1
 date: 2018-12-06 18:38:00 +07:00
+permalink: "/product/apparel/nike-sbanani.html"
+categories:
+- apparel
 ---
 
 ![baju-default.jpeg](/uploads/baju-default.jpeg)
