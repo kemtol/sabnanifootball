@@ -12,21 +12,21 @@ collections:
     title: Uploads
     output: true
 defaults:
-  - scope:
-      path: ""
-      type: "product"
-    values:
-      layout: "product"
-      permalink: "/product/:title.html"      
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+- scope:
+    path: ''
+    type: product
+  values:
+    layout: product
+    permalink: "/product/:title.html"
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: ''
+  values:
+    layout: default
 name: SABNANI FOOTBALL
 description: Sewa Lapangan Mini Soccer BSD, Tangerang, Jakarta.
 logo: http://raw.githubusercontent.com/kemtol/sabnanifootball/master/images/logo.png
