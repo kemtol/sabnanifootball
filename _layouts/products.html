@@ -51,7 +51,7 @@ layout: default
                         </div>
 
                         <div class="row">
-                            {% for item in site.product | where: "categories", [current_cat] %}
+                            {% for item in site.product | where: "categories", "teamwear" %}
                             <!-- Single Product -->
                             <div class="col-12 col-sm-6 col-lg-4">
                               <div class="single-product-wrapper">
