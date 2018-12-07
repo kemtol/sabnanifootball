@@ -221,10 +221,11 @@ img {
     position: relative;
     z-index: 1;
     h2 {
-        font-size: 30px;
+        font-size: 21px;
         margin-bottom: 0;
         text-transform: capitalize;
         font-weight: 600;
+        text-transform:uppercase;
     }
     &.text-left {
         text-align: left !important;
@@ -2069,6 +2070,15 @@ img {
                 }
             }
         }
+    }
+}
+
+
+#instafeed a{display:inline-block;width:20%;padding:10px;}
+#instafeed a img{width:100%}
+@media only screen and (max-width: 767px) {
+    #instafeed a {
+      width:50%
     }
 }
 /* ##### The End ##### */
