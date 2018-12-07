@@ -49,9 +49,14 @@
     <script>
       //js halaman index
       var userFeed = new Instafeed({
+        //get: 'user',
+        //userId: '{{site.igid}}',
+        //accessToken: '{{site.igtoken}}'
         get: 'user',
-        userId: '{{site.igid}}',
-        accessToken: '{{site.igtoken}}'
+        userId: 'site.igid',
+        filter: function(image) {
+          return image.tags.indexOf('TAG_NAME') >= 0;
+        }
       });
       userFeed.run();
   
