@@ -47,6 +47,15 @@
 
   
     <script>
+      //js halaman index
+      var feed = new Instafeed({
+          get: 'tagged',
+          tagName: 'awesome',
+          clientId: '{{site.igid}}'
+      });
+      feed.run();
+  
+      //js halaman single product
       $(function() {
       // inject carousel untuk gambar di halaman ini
           var i = 0;
