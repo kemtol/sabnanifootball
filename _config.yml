@@ -38,11 +38,8 @@ defaults:
 name: SABNANI FOOTBALL
 description: Sewa Lapangan Mini Soccer BSD, Tangerang, Jakarta.
 logo: http://raw.githubusercontent.com/kemtol/sabnanifootball/master/images/logo.png
-footer-links:
-  email: 
-  facebook: 
-  instagram: 
-  youtube: 
+igid:
+igtoken:
 disqus: 
 google_analytics: 
 url: http://sabnani.co.id
