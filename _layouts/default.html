@@ -51,8 +51,7 @@
       var userFeed = new Instafeed({
         get: 'user',
         userId: '{{site.igid}}',
-        accessToken: '{{site.igtoken}}',
-        template: '<a class="animation " href="{{link}}"><img src="{{image}}" /><span>{{caption}}</span></a>'
+        accessToken: '{{site.igtoken}}'
       });
       userFeed.run();
   
