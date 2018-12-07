@@ -48,12 +48,12 @@
   
     <script>
       //js halaman index
-      var feed = new Instafeed({
-          get: 'tagged',
-          tagName: 'awesome',
-          clientId: '{{site.igid}}'
+      var userFeed = new Instafeed({
+        get: 'user',
+        userId: '{{igid}}',
+        accessToken: '{{igtoken}}'
       });
-      feed.run();
+      userFeed.run();
   
       //js halaman single product
       $(function() {
