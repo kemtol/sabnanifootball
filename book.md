@@ -1,7 +1,7 @@
 ---
 title: Sabnani Mini Soccer Futsal BSD
 permalink: "/lapangan-futsal-dan-mini-soccer-BSD.html"
-layout: default
+layout: page
 ---
 
 Sabnani provides world-class facilities for all Indonesian and International teams, Soccer Schools and individual players. Sabnani has already welcomed over 500 teams from all over Indonesia. Play on Sabnani impressive outdoor artificial grass with size 40m x 30m, our artificial football pitch built to a FIFA 2 star standard include.
