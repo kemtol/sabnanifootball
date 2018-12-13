@@ -44,11 +44,13 @@
                             <li><a href="/buat-baju-futsal-bola-custom.html">Teamwear</a></li>
                             <li><a href="/product/equipment/">Equipment</a></li>-->
                                 {% for topmenu in site.nav %}
-                                  <li>
-                                    <a href="{{ topmenu.permalink }}">
-                                      {{ topmenu.title }}
-                                    </a>
-                                  </li>
+                                    {% if topmenu.permalink != '/product/' %}  
+                                        <li>
+                                            <a href="{{ topmenu.permalink }}">
+                                                {{ topmenu.title }}
+                                            </a>
+                                        </li>
+                                    {% endif %}
                                 {% endfor %}
                         </ul>
                     </div>
