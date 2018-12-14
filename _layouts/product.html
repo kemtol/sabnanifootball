@@ -6,7 +6,20 @@ layout: default
     .product-description img{
         display:none;
     }
-</style>    
+</style>
+
+<!-- ##### Breadcumb Area Start ##### -->
+<div class="breadcumb_area bg-img" style="background-image: url({{site.baseurl}}/img/bg-img/breadcumb.jpg);">
+    <div class="container h-100">
+        <div class="row h-100 align-items-center">
+            <div class="col-12">
+                <div class="page-title text-center">
+                    <h2>{{ page.categories }} / {{ page.title }}</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <section class="container single_product_details_area d-flex">
 
     <!-- Single Product Thumb -->
@@ -40,7 +53,11 @@ layout: default
         <a href="cart.html">
             <h2>{{ page.title }}</h2>
         </a>
-        <p class="product-price"><span class="old-price">Rp {{ page.price }}</span> Rp {{ page.saleprice }}</p>
+        {% if page.saleprice %}
+            <p class="product-price"><span class="old-price">Rp {{ page.price }}</span> Rp {{ page.saleprice }}</p>
+        {% else %}
+            <p class="product-price">Rp {{ page.price }}</p>
+        {% endif %}
         <div class="product-description">
             {{ content }}
         </div>
