@@ -6,6 +6,7 @@ categories:
 - equipment
 price: 100000
 cover: "/uploads/jual-tas-serut-futsal.jpg"
+brand: Sabnani
 ---
 
 Warna: Hitam
