@@ -13,6 +13,4 @@ size:
 - FREE SIZE
 ---
 
-Warna: Hitam
-
-Ukuran: 30cm x 40cm
+Menjual shoe bag praktis tas serut untuk keperluan anda bermain futsal, menggunakan bahan yang tebal dengan ukuran 30x40 cm.
