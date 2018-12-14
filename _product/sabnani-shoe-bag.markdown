@@ -7,6 +7,10 @@ categories:
 image: "/uploads/jual-tas-serut-futsal.jpg"
 price: 100000
 brand: Sabnani
+color:
+- "#000000"
+size:
+- FREE SIZE
 ---
 
 Warna: Hitam
