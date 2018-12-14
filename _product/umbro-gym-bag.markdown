@@ -5,7 +5,7 @@ permalink: "/product/jual-tas-futsal-besar-umbro.html"
 categories:
 - equipment
 price: 100000
-cover: "/uploads/jual-tas-gym-umbro.jpg"
+image: "/uploads/jual-tas-gym-umbro.jpg"
 ---
 
 ![jual-tas-gym-umbro.jpg](/uploads/jual-tas-gym-umbro.jpg)
