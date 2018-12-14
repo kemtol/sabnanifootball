@@ -1,7 +1,7 @@
 ---
-title: Classic Soccer Ball
+title: Futsal Mini Bag
 date: 2018-12-06 11:12:00 +07:00
-permalink: "/product/jual-bola-mini-soccer.html"
+permalink: "/product/jual-tas-futsal-mini.html"
 categories:
 - equipment
 price: 100000
