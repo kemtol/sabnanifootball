@@ -5,7 +5,7 @@ permalink: "/product/apparel/nike-sbanani.html"
 categories:
 - apparel
 price: 1500000
-cover: "/uploads/baju-default.jpeg"
+image: "/uploads/baju-default.jpeg"
 ---
 
 ![baju-default.jpeg](/uploads/baju-default.jpeg)
