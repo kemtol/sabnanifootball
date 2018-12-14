@@ -5,7 +5,7 @@ permalink: "/product/jual-tas-sepatu-futsal.html"
 categories:
 - equipment
 price: 100000
-cover: "/uploads/jual-tas-kecil-futsal.jpg"
+image: "/uploads/jual-tas-kecil-futsal.jpg"
 layout: product
 ---
 
