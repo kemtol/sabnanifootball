@@ -1,13 +1,13 @@
 ---
 title: TEAM SHIRT VICIOUS 0003
-date: 2018-12-05 07:27:00 Z
+date: 2018-12-05 14:27:00 +07:00
 permalink: "/product/jasa-pembuatan-baju-futsal-v-neck.html"
 categories:
 - teamwear
 price: 150000
 saleprice: 100000
 stock: 100
-cover: "/uploads/baju-default.jpeg"
+image: "/uploads/baju-default.jpeg"
 layout: product
 ---
 
