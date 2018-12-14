@@ -26,6 +26,7 @@ defaults:
     type: product
   values:
     layout: product
+    image: "/uploads/jersey-1.jpg"
 - scope:
     path: ''
     type: posts
