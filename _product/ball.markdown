@@ -1,14 +1,15 @@
 ---
 title: Classic Soccer Ball
-date: 2018-12-06 04:12:00 Z
+date: 2018-12-06 11:12:00 +07:00
 permalink: "/product/jual-bola-mini-soccer.html"
 categories:
 - equipment
-price: 150000
-cover: "/uploads/contoh-item-bola.jpg"
+price: 100000
+cover: "/uploads/jual-tas-kecil-futsal.jpg"
 layout: product
 ---
 
-![contoh-item-bola.jpg](/uploads/contoh-item-bola.jpg)
+![jual-tas-kecil-futsal.jpg](/uploads/jual-tas-kecil-futsal.jpg)
 
-Sabnani classic soccer ball.
+Dimensi: 30x40
+Berat: 1 kg
