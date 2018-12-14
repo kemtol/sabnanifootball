@@ -5,7 +5,7 @@ permalink: "/product/jual-arm-band-futsal-mitre.html"
 categories:
 - equipment
 cover: "/uploads/jual-arm-band-captain.jpg"
-price: 100000
+image: 100000
 ---
 
 Tersedia beberapa warna
