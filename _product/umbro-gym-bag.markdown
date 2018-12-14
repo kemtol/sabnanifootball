@@ -6,6 +6,7 @@ categories:
 - equipment
 price: 100000
 image: "/uploads/jual-tas-gym-umbro.jpg"
+brand: UMBRO
 ---
 
 ![jual-tas-gym-umbro.jpg](/uploads/jual-tas-gym-umbro.jpg)
