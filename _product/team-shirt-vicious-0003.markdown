@@ -8,6 +8,7 @@ price: 150000
 saleprice: 100000
 stock: 100
 image: "/uploads/baju-default.jpeg"
+brand: SABNANI
 layout: product
 ---
 
