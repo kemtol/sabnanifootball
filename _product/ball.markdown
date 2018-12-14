@@ -6,10 +6,9 @@ categories:
 - equipment
 price: 100000
 image: "/uploads/jual-tas-kecil-futsal.jpg"
+brand: UMBRO
 layout: product
 ---
-
-![jual-tas-kecil-futsal.jpg](/uploads/jual-tas-kecil-futsal.jpg)
 
 Dimensi: 30x40
 Berat: 1 kg
