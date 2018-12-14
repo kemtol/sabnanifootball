@@ -5,7 +5,7 @@ permalink: "/product/jual-tas-serut-futsal.html"
 categories:
 - equipment
 price: 100000
-cover: "/uploads/jual-tas-serut-futsal.jpg"
+image: "/uploads/jual-tas-serut-futsal.jpg"
 brand: Sabnani
 ---
 
