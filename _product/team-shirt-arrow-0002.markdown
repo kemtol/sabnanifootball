@@ -6,7 +6,7 @@ categories:
 - teamwear
 price: 150000
 stock: 12
-cover: "/uploads/jersey-1.jpg"
+image: "/uploads/jersey-1.jpg"
 layout: product
 ---
 
