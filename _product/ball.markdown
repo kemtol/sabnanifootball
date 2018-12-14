@@ -1,7 +1,7 @@
 ---
-title: Futsal Mini Bag
+title: Futsal Shoe Bag
 date: 2018-12-06 11:12:00 +07:00
-permalink: "/product/jual-tas-futsal-mini.html"
+permalink: "/product/jual-tas-sepatu-futsal.html"
 categories:
 - equipment
 price: 100000
