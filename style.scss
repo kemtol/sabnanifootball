@@ -78,7 +78,6 @@ a {
         outline: 0 solid transparent;
         color: $dark-color;
         font-weight: 600;
-        font-size: 12px;
     }
 }
 
@@ -343,7 +342,7 @@ img {
     &:hover,
     &:focus {
         color: $white-color;
-        background-color: $hover-color;
+        background-color: darkorange;
     }
 }
 
@@ -408,11 +407,12 @@ img {
         }
     }
     .classynav ul li a {
-        font-size: 16px;
+        font-size: 15px;
         color: #ddd;
         height:41px;
         line-height:41px;
         background-color: transparent;
+        text-transform:uppercase;
         &:hover {
             color: #eee;
         }
@@ -1295,15 +1295,19 @@ img {
 .footer_area {
     position: relative;
     z-index: 1;
-    background-color: #252525;
-    padding: 70px 0 60px;
+    /*background-color: #252525;*/
+    padding: 50px 0;
+    .container{
+        border-top:1px solid #999;
+        padding: 50px 0;
+    }
     .single_widget_area {
         .footer_menu {
             ul {
                 @include display-flex(flex);
                 li a {
                     font-size: 16px;
-                    color: rgba(255, 255, 255, 0.6);
+                    /*color: rgba(255, 255, 255, 0.6);*/
                     display: block;
                     font-weight: 400;
                     font-family: $font-ubuntu;
@@ -1325,20 +1329,20 @@ img {
                 a {
                     display: block;
                     font-size: 12px;
-                    color: rgba(255, 255, 255, 0.6);
+                    /*color: rgba(255, 255, 255, 0.6);*/
                     display: block;
                     font-weight: 400;
                     margin-bottom: 10px;
                     &:hover,
                     &:focus {
-                        color: $white-color;
+                        /*color: $white-color;*/
                     }
                 }
             }
         }
         .footer_heading {
             h6 {
-                color: $white-color;
+                /*color: $white-color;*/
                 font-size: 12px;
                 text-transform: uppercase;
                 margin-bottom: 0;
