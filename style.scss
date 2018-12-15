@@ -289,6 +289,21 @@ img {
     }
 }
 
+/* Carousel */
+
+.carousel-control{
+    position:absolute;
+    display:flex;
+    height:100%;
+    align-items:center;
+    
+}
+.carousel-control.left{
+    left:0px;
+}
+.carousel-control.right{
+    right:0px;
+}
 /* ScrollUp */
 
 #scrollUp {
@@ -1213,7 +1228,7 @@ img {
             }
         }
         .product-price {
-            margin-bottom: 0;
+            margin-bottom: 2rem;
             font-family: $font-ubuntu;
             font-size: 24px;
             color: $hover-color;
@@ -1381,7 +1396,7 @@ img {
     position: relative;
     z-index: 1;
     width: 100%;
-    height: 100px;
+    height: 50px;
     &:after {
         background-color: rgba(255, 255, 255, 0.9);
         position: absolute;
@@ -1400,6 +1415,14 @@ img {
             font-family: $font-ubuntu;
             letter-spacing: 1px;
             margin-bottom: 0;
+        }
+        a,span{
+            display: inline-block;
+            text-transform: uppercase;
+            margin-left: 5px;
+            margin-right: 5px;
+            letter-spacing: 0.5px;
+            font-size: 14px;
         }
     }
     &.breadcumb-style-two {
