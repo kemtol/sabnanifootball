@@ -1240,7 +1240,7 @@ img {
             @media #{$breakpoint-md} {
                 font-size: 20px;
             }
-            span {
+            span.old-price {
                 display: inline-block;
                 font-family: $font-ubuntu;
                 font-size: 24px;
