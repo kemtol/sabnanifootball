@@ -60,16 +60,16 @@ layout: default
                             <div class="col-6 col-sm-6 col-lg-4">
                               <div class="single-product-wrapper">
                                 <!-- Product Image -->
-                                <div class="product-img">
+                                <a href="{{item.permalink}}" class="d-block product-img">
                                     <img src="{{item.image}}" alt="">
                                     <!-- Hover Thumb -->
                                     <img class="hover-img" src="{{item.image}}" alt="">
-                                </div>
+                                </a>
                                 <!-- Product Description -->
                                 <div class="product-description">
-                                    <span>{{ item.brand }}</span>
+                                    <span>{{item.brand}}</span>
                                     <a href="{{ item.permalink }}">
-                                        <h6>{{ item.title }}</h6>
+                                        <h6>{{item.title}}</h6>
                                     </a>
                                     {% if item.saleprice and item.saleprice != 0 %}
                                         <p class="product-price"><span class="old-price">Rp {{ item.price }}</span> Rp {{ item.saleprice }}</p>
