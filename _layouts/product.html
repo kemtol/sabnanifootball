@@ -53,7 +53,7 @@ layout: default
         <a href="cart.html">
             <h2>{{ page.title }}</h2>
         </a>
-        {% if page.saleprice %}
+        {% if page.saleprice and page.saleprice != 0 %}
             <p class="product-price"><span class="old-price">Rp {{ page.price }}</span> Rp {{ page.saleprice }}</p>
         {% else %}
             <p class="product-price">Rp {{ page.price }}</p>
