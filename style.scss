@@ -358,7 +358,7 @@ img {
     @include trans-duration(500ms);
     #top-info{
         background:gold;
-        padding:5px 0;
+        padding:7.5px 0;
     }
     .classy-nav-container {
         @media #{$breakpoint-xs} {
@@ -1310,16 +1310,16 @@ img {
             ul {
                 @include display-flex(flex);
                 li a {
-                    font-size: 16px;
-                    /*color: rgba(255, 255, 255, 0.6);*/
+                    /*font-size: 16px;
+                    color: rgba(255, 255, 255, 0.6);*/
                     display: block;
                     font-weight: 400;
                     font-family: $font-ubuntu;
                     padding: 0 10px;
-                    text-transform: capitalize;
+                    text-transform: uppercase;
                     &:hover,
                     &:focus {
-                        color: $white-color;
+                        /*color: $white-color;*/
                     }
                 }
             }
