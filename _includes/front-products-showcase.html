@@ -19,11 +19,11 @@
                         <!-- Single Product -->
                         <div class="single-product-wrapper">
                           <!-- Product Image -->
-                          <div class="product-img">
+                          <a href="{{item.permalink}}" class="d-block product-img">
                               <img src="{{ item.image }}" alt="">
                               <!-- Hover Thumb -->
                               <img class="hover-img" src="{{ item.image }}" alt="">
-                          </div>
+                          </a>
                           <!-- Product Description -->
                           <div class="product-description">
                               <span class="d-none">{{item.categories}}</span>
