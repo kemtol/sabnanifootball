@@ -44,6 +44,8 @@
     <script src="{{ site.baseurl }}/js/active.js"></script>
     <!-- instafeed js -->
     <script type="text/javascript" src="{{ site.baseurl }}/js/instafeed.min.js"></script>
+    <!-- format currency js -->
+    <script type="text/javascript" src="{{ site.baseurl }}/jquery.formatCurrency.js"></script>
 
   
     <script>
@@ -54,7 +56,11 @@
         accessToken: '{{site.igtoken}}',
       });
       userFeed.run();
-  
+      
+      //Format currency
+      $(function() {
+        $('.old-price, .price').formatCurrency();
+      });
       //js halaman single product
       /*$(function() {
           var i = 0;
