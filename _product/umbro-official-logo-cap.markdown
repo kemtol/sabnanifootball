@@ -6,10 +6,9 @@ categories:
 - equipment
 image: "/uploads/jual-topi-umbro-logo-cap.jpg"
 brand: UMBRO
+price: 100000
 color:
 - black
-price: 100000
-size: FREE SIZE
 ---
 
 Terbuat dari Cotton twill, Embroidered logo dengan 1 ukuran FREE SIZE.
