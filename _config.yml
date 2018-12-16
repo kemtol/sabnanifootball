@@ -29,7 +29,7 @@ defaults:
     image: "/uploads/jersey-1.jpg"
     brand: SABNANI
     price: 100000
-    saleprice: 100000
+    saleprice: 0
     color: AS IMAGE
     size: FREE SIZE
 - scope:
