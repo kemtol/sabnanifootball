@@ -71,7 +71,11 @@ layout: default
                                     <a href="{{ item.permalink }}">
                                         <h6>{{ item.title }}</h6>
                                     </a>
-                                    <p class="product-price">Rp {{ item.price }}</p>
+                                    {% if item.saleprice %}
+                                        <p class="product-price"><span class="old-price">Rp {{ item.price }}</span> Rp {{ item.saleprice }}</p>
+                                    {% else %}
+                                        <p class="product-price">Rp {{ item.price }}</p>
+                                    {% endif %}
                                 </div>
                               </div>
                             </div>
