@@ -1303,7 +1303,7 @@ img {
     padding: 50px 0;
     .container{
         border-top:1px solid #999;
-        padding: 50px 0;
+        padding: 50px 15px;
     }
     .single_widget_area {
         .footer_menu {
@@ -1599,8 +1599,9 @@ img {
 .product-topbar {
     position: relative;
     z-index: 100;
-    margin: 20px 0;
+    margin: 0px 0 20px 0;
     padding:20px 0;
+    border-bottom:1px dotted #ccc;
     .total-products {
         p {
             margin-bottom: 0;
