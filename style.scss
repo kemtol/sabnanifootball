@@ -38,9 +38,9 @@ body {
     font-family: $font-poppins;
     font-size: 14px;
     background-color: $white-color;
-    margin-top: 50px;
+    margin-top: 80px;
     @media #{$breakpoint-xs} {
-        margin-top: 50px;
+        margin-top: 80px;
     }
 }
 
@@ -356,6 +356,10 @@ img {
     width: 100%;
     border-bottom: 1px solid $border-color;
     @include trans-duration(500ms);
+    #top-info{
+        background:gold;
+        padding:5px 0;
+    }
     .classy-nav-container {
         @media #{$breakpoint-xs} {
             @include flex-wrap(wrap);
