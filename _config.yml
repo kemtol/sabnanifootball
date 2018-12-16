@@ -30,8 +30,10 @@ defaults:
     brand: SABNANI
     price: 100000
     saleprice: 0
-    color: AS IMAGE
-    size: FREE SIZE
+    color:
+    - AS IMAGE
+    size:
+    - FREE SIZE
 - scope:
     path: ''
     type: posts
