@@ -54,9 +54,9 @@ layout: default
             <h2>{{ page.title }}</h2>
         </a>
         {% if page.saleprice and page.saleprice != 0 %}
-            <p class="product-price"><span class="old-price">Rp {{ page.price }}</span> Rp {{ page.saleprice }}</p>
+            <p class="product-price"><span class="old-price">{{ page.price }}</span> <span class="price">{{ page.saleprice }}</span></p>
         {% else %}
-            <p class="product-price">Rp {{ page.price }}</p>
+            <p class="product-price price">{{ page.price }}</p>
         {% endif %}
         <div class="product-description">
             {{ content }}
