@@ -9,7 +9,7 @@ collections:
     title: Jumbotron
     output: true
   micro-banner:
-    title: Micro Banner
+    title: Mini Banner
     output: true
   nav:
     title: Nav
