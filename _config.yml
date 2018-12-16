@@ -28,6 +28,10 @@ defaults:
     layout: product
     image: "/uploads/jersey-1.jpg"
     brand: SABNANI
+    price: 100000
+    saleprice: 100000
+    color: AS IMAGE
+    size: FREE SIZE
 - scope:
     path: ''
     type: posts
