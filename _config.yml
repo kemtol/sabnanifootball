@@ -2,6 +2,9 @@
 title: Sabnanifootball
 timezone: Asia/Jakarta
 collections:
+  jumbotron:
+    title: Jumbotron
+    output: true
   nav:
     title: Nav
     output: true
