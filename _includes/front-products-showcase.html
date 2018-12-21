@@ -14,8 +14,8 @@
               <div class="col-12">
                   <div class="popular-products-slides owl-carousel">
 
-                        
-                        {% for item in site.product %}
+                        {% assign items = site.product  | sort:"date" | reverse %}
+                        {% for item in items %}
                         <!-- Single Product -->
                         <div class="single-product-wrapper">
                           <!-- Product Image -->
