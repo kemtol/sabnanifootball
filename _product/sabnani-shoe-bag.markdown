@@ -4,7 +4,9 @@ date: 2018-12-14 14:17:00 +07:00
 permalink: "/product/jual-tas-serut-futsal.html"
 categories:
 - equipment
-image: "/uploads/jual-tas-serut-futsal.jpg"
+image: 
+- "/uploads/jual-tas-serut-futsal.jpg"
+- "/uploads/jual-tas-serut-futsal.jpg"
 price: 100000
 brand: Sabnani
 color:
