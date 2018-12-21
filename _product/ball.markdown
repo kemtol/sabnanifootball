@@ -4,9 +4,11 @@ date: 2018-12-06 11:12:00 +07:00
 permalink: "/product/jual-tas-sepatu-futsal.html"
 categories:
 - equipment
-price: 100000
-image: "/uploads/jual-tas-kecil-futsal.jpg"
+image:
+- "/uploads/jual-tas-kecil-futsal.jpg"
+- "/uploads/jual-tas-kecil-futsal.jpg"
 brand: UMBRO
+price: 100000
 layout: product
 ---
 
