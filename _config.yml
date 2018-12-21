@@ -35,7 +35,9 @@ defaults:
     type: product
   values:
     layout: product
-    image: "/uploads/jersey-1.jpg"
+    image:
+    - "/uploads/image-tampak-depan.jpg"
+    - "/uploads/image-tampak-belakang.jpg"
     brand: SABNANI
     price: 100000
     saleprice: 0
