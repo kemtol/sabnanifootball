@@ -1,10 +1,11 @@
 ---
-title: HALF - 2
+title: HALF
 date: 2018-12-24 13:09:00 +07:00
 permalink: "/product/jasa-pembuatan-baju-futsal-half.html"
 categories:
 - teamwear
 image:
+- "/uploads/teamwear%20half.jpg"
 - "/uploads/half-2.jpg"
 - "/uploads/half-1.jpg"
 price: 235000
