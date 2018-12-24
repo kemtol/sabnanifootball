@@ -1,5 +1,5 @@
 ---
-title: HALF - 1
+title: HALF - 2
 date: 2018-12-24 13:09:00 +07:00
 permalink: "/product/jasa-pembuatan-baju-futsal-half.html"
 categories:
