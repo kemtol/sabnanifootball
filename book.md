@@ -16,14 +16,12 @@ Sabnani bangga untuk mengatakan bahwa kami berkomitmen untuk sepakbola, olahraga
 
 ## Sebuah Kemenangan
 
-Sabnani Stadium menggunakan rumput sintetis FIFA bintang 2
+![IMG_20181016_150031 (Small).jpg](/uploads/IMG_20181016_150031%20(Small).jpg)
+
+Keluarkan permainan terbaik anda di Sabnani, Anda akan selalu menjadi orang pertama dalam sebuah permainan sepakbola, selalu percaya dan yakin terhadap diri anda sendiri kalau anda bisa mengalahkan dunia lewat kemampuan individu anda dalam sepakbola,  Sabnani terus mendukung kemampuan sepakbola anda melalu fasilitas terbaik, Sabnani Stadium menggunakan rumput sintetis FIFA bintang 2, sebuah rumput terbaik dengan standar International yang akan membantu untuk mengeluarkan puncak permainan anda, dengan ukuran lapangan 40x30 meter, Sabnani akan membuat anda menikmati setiap detik dari proses sepakbola itu sendiri.
+
+Karena sebuah kemenangan bukan sebuah tujuan, melainkan sebuah awal dari segalanya.
 
 
 
-## Tribune
-Sabnani has 2 tribunes. Tribune 1 is build for 250 spectators with all seated, And Tribune 2 is a standing tribune can fit to 150 spectators and also can be use to player bench
-
-![stadium web.jpg](/uploads/stadium%20web.jpg)
-
-## Other Facilities
-Beside Sabnani pitch we also provide the best facilities makes you more comfortale at Sabnani, we have Musholla ( Moslem praying room ), Nursery room, Man and Women Toilet include shower room and waiting room.
+## Yakin, Berinovasi dan Menginspirasi
