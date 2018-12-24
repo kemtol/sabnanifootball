@@ -7,7 +7,7 @@ categories:
 image:
 - "/uploads/teamwear%20cantona.jpg"
 - "/uploads/cantona.jpg"
-saleprice: 235000
+price: 235000
 ---
 
 Jersey dengan konsep Cantona dibuat oleh sabnani untuk  musim 2019, konsep ini diciptakan untuk yang menyukai desain dengan menggunakan kerah yang membuat setiap pemain menjadi lebih elegant, Desain Cantona sesuai untuk semua tim sepak bola dan futsal.
