@@ -6,7 +6,7 @@ categories:
 - teamwear
 image:
 - "/uploads/half-2.jpg"
-- "/uploads/half-2.jpg"
+- "/uploads/half-1.jpg"
 price: 235000
 ---
 
