@@ -1,15 +1,15 @@
 ---
-title: TEAM SHIRT VICIOUS 0003
+title: Cantona
 date: 2018-12-05 14:27:00 +07:00
 permalink: "/product/jasa-pembuatan-baju-futsal-v-neck.html"
 categories:
 - teamwear
-price: 150000
+image: "/uploads/cantona.jpg"
+brand: SABNANI
+price: 235000
 saleprice: 100000
 stock: 100
-image: "/uploads/baju-default.jpeg"
-brand: SABNANI
 layout: product
 ---
 
-Mauris viverra cursus ante laoreet eleifend. Donec vel fringilla ante. Aenean finibus velit id urna vehicula, nec maximus est sollicitudin.
+Jersey dengan konsep Cantona dibuat oleh sabnani untuk  musim 2019, konsep ini diciptakan untuk yang menyukai desain dengan menggunakan kerah yang membuat setiap pemain menjadi lebih elegant, Desain Cantona sesuai untuk semua tim sepak bola dan futsal.
