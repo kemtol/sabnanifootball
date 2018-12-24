@@ -4,6 +4,9 @@ permalink: "/lapangan-futsal-dan-mini-soccer-BSD.html"
 layout: page
 ---
 
+![foto 12 nov 2018 (5b) (Small).jpg](/uploads/foto%2012%20nov%202018%20(5b)%20(Small).jpg)
+
+
 ## Bermain dengan cara SABNANI
 
 Sejak 2011, Sabnani terus  menggabungkan antara sepakbola modern dengan pakaian dan peralatan sepak bola yang inovatif dan ikonik, Sabnani terus menjadi pelopor untuk kemajuan sepakbola Indonesia yang memadukan semangat  dan gaya di luar lapangan.
