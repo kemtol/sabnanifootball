@@ -2,6 +2,8 @@
 title: Minimalsist
 date: 2018-12-24 13:12:00 +07:00
 permalink: "/product/jasa-pembuatan-baju-futsal-minimalist.html"
+categories:
+- teamwear
 image:
 - "/uploads/minimalist-1.jpg"
 - "/uploads/minimalist-2.jpg"
