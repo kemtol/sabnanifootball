@@ -40,6 +40,9 @@ defaults:
     - "/uploads/image-tampak-belakang.jpg"
     brand: SABNANI
     price: 100000
+    teamwearprice:
+    - (Harga amateur set, diisi hanya pada produk teamwear) 
+    - (Harga pro set, diisi hanya pada produk teamwear) 
     saleprice: 0
     color:
     - AS IMAGE
