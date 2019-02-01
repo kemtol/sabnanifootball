@@ -27,15 +27,15 @@ layout: default
     <div class="single_product_thumb clearfix">
         <div class="product_thumbnail_slides owl-carousel">
             {% assign images = page.image %}
-            {% if page.categories = 'teamwear'}
+            {% if page.categories = 'teamwear' %}
                 {% for image in images offset:1 %}
                     <img src="{{site.baseurl}}{{image}}" class="d-block w-100"  />
                 {% endfor %}
             {% else %}
                 {% for image in images %}
                     <img src="{{site.baseurl}}{{image}}" class="d-block w-100"  />
-                {% endfor %}            
-            {% endif%}
+                {% endfor %}          
+            {% endif %}
         </div>
     </div>
 
