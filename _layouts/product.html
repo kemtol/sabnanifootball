@@ -8,7 +8,6 @@ layout: default
     }
 </style>
 {% assign current_cat = page.categories[0] %}
-{{current_cat}}
 <!-- ##### Breadcumb Area Start ##### -->
 <div class="breadcumb_area bg-img" style="background-image: url({{site.baseurl}}/img/bg-img/breadcumb.jpg);">
     <div class="container h-100">
@@ -27,7 +26,7 @@ layout: default
     <div class="single_product_thumb clearfix">
         <div class="product_thumbnail_slides owl-carousel">
             {% assign images = page.image %}
-            <!--{% if page.categories == 'teamwear' %}
+            {% if current_cat == 'teamwear' %}
                 {% for image in images offset:2 %}
                     <img src="{{site.baseurl}}{{image}}" class="d-block w-100"  />
                 {% endfor %}
@@ -35,10 +34,7 @@ layout: default
                 {% for image in images %}
                     <img src="{{site.baseurl}}{{image}}" class="d-block w-100"  />
                 {% endfor %}          
-            {% endif %}-->
-            {% for image in images offset:1 %}
-                <img src="{{site.baseurl}}{{image}}" class="d-block w-100"  />
-            {% endfor %}    
+            {% endif %} 
         </div>
     </div>
 
