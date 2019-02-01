@@ -27,7 +27,7 @@ layout: default
         <div class="product_thumbnail_slides owl-carousel">
             {% assign images = page.image %}
             {% if current_cat == 'teamwear' %}
-                {% for image in images offset:0 %}
+                {% for image in images offset:1 %}
                     <img src="{{site.baseurl}}{{image}}" class="d-block w-100"  />
                 {% endfor %}
             {% else %}
