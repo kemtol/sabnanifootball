@@ -49,21 +49,21 @@ defaults:
     - "(Harga amateur set, diisi hanya pada produk teamwear)"
     - "(Harga pro set, diisi hanya pada produk teamwear)"
     teamweardesc:
-    - '<p>Sabnani Amateur Set Jersey sesuai dengan tim Sepakbola yang ingin mengejar
-      impian untuk menjadi tim profesional.</p><p>minimum pemesanan untuk Sabnani Amateur
-      Set Jersey adalah 15 pcs, termasuk logo Klub, flock / Polyflex, Sabnani Logo
-      (pada baju dan celana), logo Sponsor , Nama Pemain, Nomor pemain (pada baju
-      dan celana).</p> <p>Anda dapat memilih atau memadukan bahan dengan kualitas “ Comfort
-      Fit “Sabnani dengan pilihan bahan: Dot Drifit, Drifit Heksagonal, Wafer Drifit,
-      Mesh Drifit, Serena Super, Billabong, Benzema & Paving.</p>'
-    - '<p>Sabnani Pro Set Jersey sangat sesuai dengan tim Sepakbola profesional, team
+    - "<p>Sabnani Amateur Set Jersey sesuai dengan tim Sepakbola yang ingin mengejar
+      impian untuk menjadi tim profesional.</p><p>minimum pemesanan untuk Sabnani
+      Amateur Set Jersey adalah 15 pcs, termasuk logo Klub, flock / Polyflex, Sabnani
+      Logo (pada baju dan celana), logo Sponsor , Nama Pemain, Nomor pemain (pada
+      baju dan celana).</p> <p>Anda dapat memilih atau memadukan bahan dengan kualitas
+      “ Comfort Fit “Sabnani dengan pilihan bahan: Dot Drifit, Drifit Heksagonal,
+      Wafer Drifit, Mesh Drifit, Serena Super, Billabong, Benzema & Paving.</p>"
+    - "<p>Sabnani Pro Set Jersey sangat sesuai dengan tim Sepakbola profesional, team
       anda akan dibantu tim profesioanl dari Sabnani dalam hal pemuatan foto da video
-      profile team sepakbola mu.</p> <p>Minimum pemesanan untuk Sabnani Amateur Set Jersey
-      adalah 25 pcs, termasuk logo Klub, flock / Polyflex, Sabnani Logo (pada baju
-      dan celana), logo Sponsor , Nama Pemain, Nomor pemain (pada baju dan celana).</p>
+      profile team sepakbola mu.</p> <p>Minimum pemesanan untuk Sabnani Amateur Set
+      Jersey adalah 25 pcs, termasuk logo Klub, flock / Polyflex, Sabnani Logo (pada
+      baju dan celana), logo Sponsor , Nama Pemain, Nomor pemain (pada baju dan celana).</p>
       <p>Anda dapat memilih atau memadukan bahan dengan kualitas “ Comfort Fit “Sabnani
       dengan pilihan bahan: Dot Drifit, Drifit Heksagonal, Wafer Drifit, Mesh Drifit,
-      Serena Super, Billabong, Benzema & Paving.</p>'
+      Serena Super, Billabong, Benzema & Paving.</p>"
 - scope:
     path: ''
     type: posts
