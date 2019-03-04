@@ -5,17 +5,17 @@ layout: default
 <section class="single-blog-wrapper">
 
     <!-- Single Blog Post Thumb -->
-    <div class="single-blog-post-thumb {{page.path}}">
+    <div class="single-blog-post-thumb position-relative">
         {% if page.image %}
             <img src="{{site.baseurl}}{{page/image}}" alt="{{page.title}}" class="w-100">
         {% else %}
             <img src="img/bg-img/bg-8.jpg" alt="{{page.title}}" class="w-100">
         {% endif %}
         {% if page.path == "book.md"%}
-        <div class="select-box position-absolute" style="top:0;bottom:0;left:0;right:0">
-            <div>
-                <h4>LETS START THE GAME</h4>
-                <div class="d-flex">
+        <div class="d-flex position-absolute justify-content-center align-items-center" style="top:0;bottom:0;left:0;right:0">
+            <div class="text-center p-5" style="background-color: rgba(255, 255, 255, 0.95);border-radius: 5px;">
+                <h4 class="mb-30">LETS START THE GAME</h4>
+                <div class="d-flex select-box">
                     <select name="select" id="productSize" class="mr-5">
                         <option value="value">Bulan</option>
                     </select>
