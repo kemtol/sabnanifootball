@@ -6,7 +6,11 @@ layout: default
 
     <!-- Single Blog Post Thumb -->
     <div class="single-blog-post-thumb">
-        <img src="img/bg-img/bg-8.jpg" alt="">
+        {% if page.image %}
+            <img src="{{site.baseurl}}{{page/image}}" alt="{{page.title}}" class="w-100">
+        {% else %}
+            <img src="img/bg-img/bg-8.jpg" alt="{{page.title}}" class="w-100">
+        {% endif %}
     </div>
 
     <div class="container">
