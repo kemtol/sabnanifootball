@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="single-blog-wrapper">
+<section class="single-blog-wrapper">
 
     <!-- Single Blog Post Thumb -->
     <div class="single-blog-post-thumb {{page.path}}">
@@ -13,28 +13,30 @@ layout: default
         {% endif %}
         {% if page.path == "book.md"%}
         <div class="select-box position-absolute" style="top:0;bottom:0;left:0;right:0">
-            <h4>LETS START THE GAME</h4>
-            <div class="d-flex">
-                <select name="select" id="productSize" class="mr-5">
-                    <option value="value">Bulan</option>
-                </select>
-                <div class="nice-select mr-5" tabindex="0">
-                        <span class="current">Bulan</span>
+            <div>
+                <h4>LETS START THE GAME</h4>
+                <div class="d-flex">
+                    <select name="select" id="productSize" class="mr-5">
+                        <option value="value">Bulan</option>
+                    </select>
+                    <div class="nice-select mr-1" tabindex="0">
+                            <span class="current">Bulan</span>
+                            <ul class="list">
+                                    <li data-value="value" class="option">Maret 2019</li>
+                            </ul>
+                    </div>
+                    <select name="select" id="productColor" style="display:none">
+                        <option value="value">Tanggal</option>
+                    </select>
+                    <div class="nice-select mr-1" tabindex="0">
+                        <span class="current">1</span>
                         <ul class="list">
-                                <li data-value="value" class="option">Maret 2019</li>
+                                <li data-value="value" class="option selected">2</li>
                         </ul>
-                </div>
-                <select name="select" id="productColor" style="display:none">
-                    <option value="value">Tanggal</option>
-                </select>
-                <div class="nice-select" tabindex="0">
-                    <span class="current">1</span>
-                    <ul class="list">
-                            <li data-value="value" class="option selected">2</li>
-                    </ul>
-                </div>
-                <div class="cart-fav-box d-flex align-items-center">
-                    <a href="https://wa.me/{{ site.wa }}/?text=Admin, saya mau pesan {{ page.title }}" class="btn essence-btn">Book Sekarang <i class="fas fa-long-arrow-alt-right"></i></a>
+                    </div>
+                    <div class="cart-fav-box d-flex align-items-center">
+                        <a href="https://wa.me/{{ site.wa }}/?text=Admin, saya mau pesan {{ page.title }}" class="btn essence-btn" style="height: 42px;line-height: 40px;border-radius: 5px;">Book Sekarang <i class="fas fa-long-arrow-alt-right"></i></a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -53,4 +55,4 @@ layout: default
             </div>
         </div>
     </div>
-</div>
+</section>
