@@ -8,7 +8,7 @@ gallery:
 - "/uploads/nursery%20room.jpg"
 - "/uploads/musholla.jpg"
 - "/uploads/lapangan-2.jpg"
-- "/uploads/lapangan-2.jpg"
+- "/uploads/bench%20&%20standing%20tribune.jpg"
 layout: page
 ---
 
