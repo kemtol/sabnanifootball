@@ -88,7 +88,7 @@ layout: default
                 </div>
             </div>
         </div>
-        <a href="" class="menuju-lokasi position-absolute"><i class="fas fa-map-marked-alt position-relative"></i></a>
+        <a href="" class="menuju-lokasi position-absolute"><i class="fas fa-map-marker-alt position-relative"></i></a>
         {% endif %}
     </div>
 </section>
@@ -97,22 +97,34 @@ layout: default
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="text-center">FASILITAS</h2>
+                <h2 class="text-center mt-5 mb-3">FASILITAS</h2>
                 <p class="text-center">
                     SABNANI PARK terletak di BSD. Lapangan mini soccer dan futsal kami adalah yang terbaik di kelasnya. Dilengkapi dengan mini tribune membuat pengalaman bermain sepakbola semi professional anda menjadi nyata.
                 </p>
                 <ul class="fasilitas-icon d-flex justify-content-center">
-                    <li class="d-block text-center w-25 p-5">
+                    <li class="d-block text-center flex-fill p-5">
                         <i class="d-block fas fa-school mb-3"></i>
                         <strong>SOCCER SCHOOL</strong>
                     </li>
-                    <li class="d-block text-center w-25 p-5">
+                    <li class="d-block text-center flex-fill p-5">
                         <i class="d-block fas fa-parking mb-3"></i>
                         <strong>CARK PARK</strong>
                     </li>
-                    <li class="d-block text-center w-25 p-5">
-                        <i class="d-block fas fa-toilet-paper mb-3"></i>
+                    <li class="d-block text-center flex-fillp-5">
+                        <i class="d-block fas fa-mosque mb-3"></i>
                         <strong>MUSHOLLA</strong>
+                    </li>
+                    <li class="d-block text-center flex-fill p-5">
+                        <i class="d-block fas fa-store mb-3"></i>
+                        <strong>ALFAMART</strong>
+                    </li>
+                    <li class="d-block text-center flex-fill p-5">
+                        <i class="d-block fas fa-baby mb-3"></i>
+                        <strong>NURSERY ROOM</strong>
+                    </li>
+                    <li class="d-block text-center flex-fill p-5">
+                        <i class="d-block fas fa-toilet-paper mb-3"></i>
+                        <strong>TOILET</strong>
                     </li>
                 </ul>
             </div>    
@@ -123,7 +135,7 @@ layout: default
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="text-center">GALLERY</h2>
+                <h2 class="text-center mb-3">GALLERY</h2>
                 <div id="gallery">
                     {% assign images = page.gallery %}
                     {% for image in images %}
@@ -140,7 +152,7 @@ layout: default
 <section>
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-12 col-md-8">
+            <div class="col-12">
                 <div class="regular-page-content-wrapper section-padding-80">
                     {% if page.path == "book.md"%}
                     <div class="regular-page-text text-center">
