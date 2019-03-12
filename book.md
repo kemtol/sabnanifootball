@@ -2,8 +2,14 @@
 title: Sabnani Football
 permalink: "/lapangan-futsal-dan-mini-soccer-BSD.html"
 image: "/uploads/lapangan-sepakbola-mini-soccer-bsd.jpg"
+gallery:
+- 
+- 
+- 
 layout: page
 ---
+
+<div class="text-center">
 
 ## Masa Depan di Mulai dari SABNANI
 
@@ -23,6 +29,4 @@ Keluarkan permainan terbaik anda di Sabnani, Anda akan selalu menjadi orang pert
 
 Karena sebuah kemenangan bukan sebuah tujuan, melainkan sebuah awal dari segalanya.
 
-
-
-## Yakin, Berinovasi dan Menginspirasi
+</div>
