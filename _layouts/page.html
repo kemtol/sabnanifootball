@@ -17,12 +17,15 @@ layout: default
         text-align: center;
         bottom:-50px;
         left:50%;
-        box-shadow: 0px 0px 20px rgb(0,0,0,0.25);
+        /*box-shadow: 0px 0px 20px rgb(0,0,0,0.25);*/
     }
     .menuju-lokasi i{
         font-size: 36px;
         color: orange;
         top: 10px;
+    }
+    #fasilitas p{
+        font-size: 18px;font-weight: 300;margin-bottom: 50px;
     }
     #fasilitas .fasilitas-icon li{
         background: #eee;
@@ -82,28 +85,29 @@ layout: default
                 </div>
             </div>
         </div>
-        <a href="" class="menuju-lokasi position-absolute"><i class="fas fa-map-marked-alt"></i></a>
+        <a href="" class="menuju-lokasi position-absolute"><i class="fas fa-map-marked-alt position-relative"></i></a>
         {% endif %}
     </div>
 </section>
-<section id="fasilitas">
+{% if page.path == "book.md"%}
+<section id="fasilitas" class="pt-5 pb-5">
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <h2 class="text-center">FASILITAS</h2>
-                <p class="text-center" style="font-size: 18px;font-weight: 300;margin-bottom: 50px;">
+                <p class="text-center">
                     SABNANI PARK terletak di BSD. Lapangan mini soccer dan futsal kami adalah yang terbaik di kelasnya. Dilengkapi dengan mini tribune membuat pengalaman bermain sepakbola semi professional anda menjadi nyata.
                 </p>
                 <ul class="fasilitas-icon d-flex justify-content-center">
-                    <li class="d-block">
+                    <li class="d-block text-center">
                         <i class="d-block fas fa-school"></i>
                         <span>Sekolah Sepakbola</span>
                     </li>
-                    <li class="d-block">
+                    <li class="d-block text-center">
                         <i class="d-block fas fa-parking"></i>
                         <span>Parkir Mobil</span>
                     </li>
-                    <li>
+                    <li class="d-block text-center">
                         <i class="d-block fas fa-toilet-paper"></i>
                         <span>Toilet</span>
                     </li>
@@ -112,7 +116,7 @@ layout: default
         </div>
     </div>
 </section>
-<section>
+<section id="gallery" class="pt-5 pb-5">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -121,7 +125,9 @@ layout: default
             </div>    
         </div>
     </div>
-
+</section>
+{% endif %}
+<section>
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 col-md-8">
