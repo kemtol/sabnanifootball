@@ -14,7 +14,7 @@ layout: default
         width: 100px;
         height: 100px;
         text-align: center;
-        bottom:0px;
+        bottom:-50px;
         left:50%;
         box-shadow: 0px 0px 20px rgb(0,0,0,0.25);
     }
@@ -22,6 +22,12 @@ layout: default
         font-size: 36px;
         color: orange;
         top: 10px;
+    }
+    #fasilitas .fasilitas-icon li{
+        background: #eee;
+    }
+    #fasilitas .fasilitas-icon .fas{
+        font-size:36px;
     }
 </style>
 <section class="single-blog-wrapper">
@@ -79,25 +85,25 @@ layout: default
         {% endif %}
     </div>
 </section>
-<section>
+<section id="fasilitas">
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <h2 class="text-center">FASILITAS</h2>
-                <p>
+                <p class="text-center" style="font-size: 18px;font-weight: 300;margin-bottom: 50px;">
                     SABNANI PARK terletak di BSD. Lapangan mini soccer dan futsal kami adalah yang terbaik di kelasnya. Dilengkapi dengan mini tribune membuat pengalaman bermain sepakbola semi professional anda menjadi nyata.
                 </p>
-                <ul class="d-flex justify-content-center">
-                    <li>
-                        <i class="fas fa-school"></i>
+                <ul class="fasilitas-icon d-flex justify-content-center">
+                    <li class="d-block">
+                        <i class="d-block fas fa-school"></i>
                         <span>Sekolah Sepakbola</span>
                     </li>
-                    <li>
-                        <i class="fas fa-parking"></i>
+                    <li class="d-block">
+                        <i class="d-block fas fa-parking"></i>
                         <span>Parkir Mobil</span>
                     </li>
                     <li>
-                        <i class="fas fa-toilet-paper"></i>
+                        <i class="d-block fas fa-toilet-paper"></i>
                         <span>Toilet</span>
                     </li>
                 </ul>
