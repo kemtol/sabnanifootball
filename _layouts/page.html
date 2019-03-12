@@ -39,7 +39,7 @@ layout: default
     <!-- Single Blog Post Thumb -->
     <div class="single-blog-post-thumb position-relative">
         {% if page.image %}
-            <img src="{{site.baseurl}}{{page/image}}" alt="{{page.title}}" class="w-100">
+            <img src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}" class="w-100">
         {% else %}
             <img src="img/bg-img/bg-8.jpg" alt="{{page.title}}" class="w-100">
         {% endif %}
@@ -99,15 +99,15 @@ layout: default
                     SABNANI PARK terletak di BSD. Lapangan mini soccer dan futsal kami adalah yang terbaik di kelasnya. Dilengkapi dengan mini tribune membuat pengalaman bermain sepakbola semi professional anda menjadi nyata.
                 </p>
                 <ul class="fasilitas-icon d-flex justify-content-center">
-                    <li class="d-block text-center">
+                    <li class="d-block text-center w-25 p-5">
                         <i class="d-block fas fa-school"></i>
                         <span>Sekolah Sepakbola</span>
                     </li>
-                    <li class="d-block text-center">
+                    <li class="d-block text-center w-25 p-5">
                         <i class="d-block fas fa-parking"></i>
                         <span>Parkir Mobil</span>
                     </li>
-                    <li class="d-block text-center">
+                    <li class="d-block text-center w-25 p-5">
                         <i class="d-block fas fa-toilet-paper"></i>
                         <span>Toilet</span>
                     </li>
@@ -121,7 +121,12 @@ layout: default
         <div class="row">
             <div class="col-12">
                 <h2 class="text-center">GALLERY</h2>
-
+                <div id="gallery">
+                    {% assign image = page.gallery %}
+                    <a href="#">
+                        <img src="{{site.baseurl}}{{image}}" />
+                    </a>
+                </div>
             </div>    
         </div>
     </div>
@@ -132,7 +137,11 @@ layout: default
         <div class="row justify-content-center">
             <div class="col-12 col-md-8">
                 <div class="regular-page-content-wrapper section-padding-80">
+                    {% if page.path == "book.md"%}
+                    <div class="regular-page-text text-center">
+                    {% else %}
                     <div class="regular-page-text">
+                    {% endif %}
                         {{content}}
                     </div>
                 </div>
