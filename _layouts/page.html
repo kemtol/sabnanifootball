@@ -16,7 +16,7 @@ layout: default
             <div class="text-center p-5" style="background-color: rgba(255, 255, 255, 0.95);border-radius: 5px;">
                 <h4 class="mb-30">LETS START THE GAME</h4>
                 <div class="d-flex select-box">
-                    <select name="select" id="productSize" class="mr-5">
+                    <select name="select" id="bulan" class="mr-1">
                         <option value="value">Bulan</option>
                     </select>
                     <div class="nice-select mr-1" tabindex="0">
@@ -25,15 +25,28 @@ layout: default
                                     <li data-value="value" class="option">Maret 2019</li>
                             </ul>
                     </div>
-                    <select name="select" id="productColor" style="display:none">
+                    <select name="select" id="tanggal" class="mr-1">
                         <option value="value">Tanggal</option>
                     </select>
-                    <div class="nice-select mr-1" tabindex="0">
-                        <span class="current">1</span>
+                    <div class="nice-select mr-1" tabindex="1">
+                        <span class="current">Tanggal</span>
                         <ul class="list">
                                 <li data-value="value" class="option selected">2</li>
                         </ul>
                     </div>
+                    <select name="select" id="sesi" class="mr-1">
+                        <option value="value">Sesi</option>
+                    </select>
+                    <div class="nice-select mr-1" tabindex="2">
+                        <span class="current">Sesi</span>
+                        <ul class="list">
+                                <li data-value="value" class="option selected">Pagi</li>
+                                <li data-value="value" class="option selected">Siang</li>
+                                <li data-value="value" class="option selected">Sore</li>
+                                <li data-value="value" class="option selected">Malam</li>
+                        </ul>
+                    </div>
+
                     <div class="cart-fav-box d-flex align-items-center">
                         <a href="https://wa.me/{{ site.wa }}/?text=Admin, saya mau pesan {{ page.title }}" class="btn essence-btn" style="height: 42px;line-height: 40px;border-radius: 5px;">Book Sekarang <i class="fas fa-long-arrow-alt-right"></i></a>
                     </div>
