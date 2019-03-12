@@ -3,9 +3,12 @@ title: Sabnani Football
 permalink: "/lapangan-futsal-dan-mini-soccer-BSD.html"
 image: "/uploads/lapangan-sepakbola-mini-soccer-bsd.jpg"
 gallery:
-- 
-- 
-- 
+- "/uploads/lapangan.jpg"
+- "/uploads/tribune.jpg"
+- "/uploads/nursery%20room.jpg"
+- "/uploads/musholla.jpg"
+- "/uploads/lapangan-2.jpg"
+- "/uploads/lapangan-2.jpg"
 layout: page
 ---
 
