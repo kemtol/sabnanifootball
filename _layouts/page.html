@@ -122,10 +122,12 @@ layout: default
             <div class="col-12">
                 <h2 class="text-center">GALLERY</h2>
                 <div id="gallery">
-                    {% assign image = page.gallery %}
+                    {% assign images = page.gallery %}
+                    {% for image in images %}
                     <a href="#">
                         <img src="{{site.baseurl}}{{image}}" />
                     </a>
+                    {% endfor %}
                 </div>
             </div>    
         </div>
