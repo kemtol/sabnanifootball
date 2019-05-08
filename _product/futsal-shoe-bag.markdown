@@ -9,6 +9,7 @@ image:
 - "/uploads/jual-tas-kecil-futsal.jpg"
 brand: UMBRO
 price: 100000
+saleprice: 80000
 layout: product
 ---
 
