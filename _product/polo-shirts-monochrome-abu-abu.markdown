@@ -10,7 +10,10 @@ image:
 - "/uploads/POLOSHIRT%20-%20MONOCHROME%20-%20ABUABU%203.jpg"
 price: 95000
 size:
-- S,M,L,XL
+- S
+- M
+- L
+- XL
 layout: product
 ---
 
