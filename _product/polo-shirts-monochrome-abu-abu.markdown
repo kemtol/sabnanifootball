@@ -11,6 +11,7 @@ image:
 price: 95000
 size:
 - S,M,L,XL
+layout: product
 ---
 
 SABNANI
