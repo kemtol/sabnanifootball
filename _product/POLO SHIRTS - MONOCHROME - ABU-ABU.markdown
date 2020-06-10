@@ -5,8 +5,9 @@ permalink: "/product/jual-sabnani-POLO-SHIRTS-MONOCHROME-biru-dongker.html"
 categories:
 - apparel
 image:
-- "/uploads/tshirt-white-front.jpg"
-- "/uploads/APPAREL%20(4).jpg"
+- "/uploads/POLOSHIRT%20-%20MONOCHROME%20-%20DARKBLUE%201.jpg"
+- "/uploads/POLOSHIRT%20-%20MONOCHROME%20-%20DARKBLUE%202.jpg"
+- "/uploads/POLOSHIRT%20-%20MONOCHROME%20-%20DARKBLUE%203.jpg"
 price: 95000
 size:
 - S
