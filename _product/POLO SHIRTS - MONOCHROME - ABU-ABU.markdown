@@ -28,4 +28,4 @@ Detail:
 - Kerah melingkar dengan rib
 - Lengan dengan rib
 - model cutting raglan
-- Bordir Sabnani ukuran kecil dengan warna monochrome abu-abu
+- Bordir Sabnani ukuran kecil dengan warna monochrome biru dongker
