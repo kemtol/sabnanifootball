@@ -8,6 +8,7 @@ image:
 - "/uploads/SPORT%20PANTS%201.jpg"
 - "/uploads/SPORT%20PANTS%202.jpg"
 - "/uploads/SPORT%20PANTS%203.jpg"
+price: 110000
 ---
 
 SABNANI
