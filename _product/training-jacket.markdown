@@ -5,8 +5,10 @@ permalink: "/product/jual-sabnani-DREAM-JERSEY.html"
 categories:
 - apparel
 image:
-- "/uploads/sabnani%20jacket-2.jpg"
-- "/uploads/sabnani%20jacket-2.jpg"
+- "/uploads/JERSEY%20-%20DREAM%201.jpg"
+- "/uploads/JERSEY%20-%20DREAM%202.jpg"
+- "/uploads/JERSEY%20-%20DREAM%203.jpg"
+price: 125000
 ---
 
 SABNANI
