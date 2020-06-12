@@ -1,5 +1,5 @@
 ---
-title: POLO SHIRTS - MONOCHROME - HITAM
+title: POLO SHIRTS - MONOCHROME - BLACK
 date: 2018-12-22 12:56:00 +07:00
 permalink: "/product/jual-sabnani-POLO-SHIRTS-MONOCHROME-HITAM.html"
 categories:
