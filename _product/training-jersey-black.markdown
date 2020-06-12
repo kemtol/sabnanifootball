@@ -1,12 +1,30 @@
 ---
-title: Training Jersey Black
+title: NEVER STOP DREAMING-SHORTS-BLACK/ORANGE
 date: 2018-12-22 12:32:00 +07:00
-permalink: "/product/jual-sabnani-training-jersey-sepakbola-futsal-polos-hitam.html"
+permalink: "/product/jual-sabnani-NEVER-STOP-DREAMING-SHORTS-BLACK-ORANGE-training-jersey-sepakbola-futsal-polos-hitam.html"
 categories:
 - apparel
 image:
-- "/uploads/sabnani%20jersey-2.jpg"
-- "/uploads/sabnani%20jersey-2.jpg"
+- "/uploads/SHORT%20-%20NSD%20-%20BLACKORANGE%201.jpg"
+- "/uploads/SHORT%20-%20NSD%20-%20BLACKORANGE%202.jpg"
+- "/uploads/SHORT%20-%20NSD%20-%20BLACKORANGE%203.jpg"
+price: 45000
+size:
+- S
+- M
+- L
+- XL
 ---
 
-Jersey latihan Sabnani menggunakan bahan 100% Dri fit dan serena, dengan teknologi Comfort Fit yang kami kembangkan sangat sesuai untuk digunakan pada saat latihan Sepakbola
+SABNANI
+NEVER STOP DREAMING-SHORTS-BLACK/ORANGE
+
+Bahan:
+
+100% Dri-fit
+
+
+Detail:
+
+- model cutting comfort fit
+- Logo Sabnani press velvet
