@@ -9,6 +9,11 @@ image:
 - "/uploads/JERSEY%20-%20DREAM%202.jpg"
 - "/uploads/JERSEY%20-%20DREAM%203.jpg"
 price: 125000
+size:
+- S
+- M
+- L
+- XL
 ---
 
 SABNANI
