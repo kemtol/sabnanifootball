@@ -1,6 +1,6 @@
 ---
 title: Sabnani Football
-permalink: "/sabnanifootball-stadium-minisoccer-lapangan-futsal-dan-jakarta-tangerang-selatan-tangsel.html"
+permalink: "/sabnanifootball-stadium-mini-soccer-lapangan-futsal-dan-jakarta-tangerang-selatan-tangsel.html"
 image: "/uploads/lapangan-sepakbola-mini-soccer-bsd.jpg"
 gallery:
 - "/uploads/lapangan.jpg"
