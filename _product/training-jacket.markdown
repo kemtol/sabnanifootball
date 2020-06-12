@@ -24,4 +24,5 @@ Detail:
 - Kerah melingkar dengan rib
 - Lengan dengan rib
 - model cutting raglan
-- Bordir Sabnani ukuran kecil dengan warna monochrome biru dongker
+- Logo Sabnani press velvet
+- Tulisan dan angka menggunakan polyflex
