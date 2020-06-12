@@ -4,6 +4,7 @@ date: 2018-12-16 15:23:00 +07:00
 permalink: "/product/jual-tas-team-bola-umbro.html"
 categories:
 - equipment
+position: 8
 image:
 - "/uploads/jual-tas-team-futsal-umbro.jpg"
 - "/uploads/jual-tas-team-futsal-umbro.jpg"

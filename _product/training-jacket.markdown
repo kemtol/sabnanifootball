@@ -4,6 +4,7 @@ date: 2018-12-22 12:53:00 +07:00
 permalink: "/product/jual-sabnani-DREAM-JERSEY.html"
 categories:
 - apparel
+position: 1
 image:
 - "/uploads/JERSEY%20-%20DREAM%201.jpg"
 - "/uploads/JERSEY%20-%20DREAM%202.jpg"

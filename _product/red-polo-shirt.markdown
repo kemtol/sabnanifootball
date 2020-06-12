@@ -4,6 +4,7 @@ date: 2018-12-21 17:49:00 +07:00
 permalink: "/product/jual-polo-shirt-team-sepakbola.html"
 categories:
 - apparel
+position: 10
 image:
 - "/uploads/sabnani-polo-shirt-sepakbola-merah.jpg"
 - "/uploads/sabnani-polo-shirt-sepakbola-merah.jpg"

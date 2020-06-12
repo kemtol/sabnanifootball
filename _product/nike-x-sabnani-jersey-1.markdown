@@ -4,6 +4,7 @@ date: 2018-12-06 18:38:00 +07:00
 permalink: "/product/jual-sabnani-futsal-training-jersey-biru.html"
 categories:
 - apparel
+position: 4
 image:
 - "/uploads/jual-sabnani-futsal-jersey-blue.jpg"
 - "/uploads/jual-sabnani-futsal-jersey-blue.jpg"
