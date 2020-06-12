@@ -8,7 +8,7 @@ image:
 - "/uploads/POLOSHIRT%20-%20MONOCHROME%20-%20BLACK%201.jpg"
 - "/uploads/POLOSHIRT%20-%20MONOCHROME%20-%20BLACK%202.jpg"
 - "/uploads/POLOSHIRT%20-%20MONOCHROME%20-%20BLACK%203.jpg"
-price: 95000
+price: 110000
 size:
 - S
 - M
