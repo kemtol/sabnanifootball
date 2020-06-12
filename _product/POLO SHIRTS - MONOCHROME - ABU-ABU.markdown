@@ -1,5 +1,5 @@
 ---
-title: POLO SHIRTS - MONOCHROME - BIRU DONGKER
+title: POLO SHIRTS - MONOCHROME - DARK BLUE
 date: 2020-04-27 18:19:00 +07:00
 permalink: "/product/jual-sabnani-POLO-SHIRTS-MONOCHROME-biru-dongker.html"
 categories:
