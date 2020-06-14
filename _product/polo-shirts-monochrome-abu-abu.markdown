@@ -4,7 +4,7 @@ date: 2020-06-10 15:51:00 +07:00
 permalink: "/product/jual-sabnani-POLO-SHIRTS-MONOCHROME-abu.html"
 categories:
 - apparel
-position: 24
+position: 12
 image:
 - "/uploads/POLOSHIRT%20-%20MONOCHROME%20-%20ABUABU%201.jpg"
 - "/uploads/POLOSHIRT%20-%20MONOCHROME%20-%20ABUABU%202.jpg"

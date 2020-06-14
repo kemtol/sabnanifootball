@@ -4,7 +4,7 @@ date: 2018-12-24 13:09:00 +07:00
 permalink: "/product/jasa-pembuatan-baju-futsal-half.html"
 categories:
 - teamwear
-position: 18
+position: 19
 image:
 - "/uploads/teamwear%20half.jpg"
 - "/uploads/half-2.jpg"
