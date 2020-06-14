@@ -1,6 +1,7 @@
 ---
 title: JAKET HUJAN BIRU DONGKER
 date: 2020-06-14 16:42:00 +07:00
+permalink: "/product/jual-sabnani-JAKET-HUJAN-TASLAN-ANTI-AIR-BIRU-DONGKER.html"
 position: 3
 image:
 - "/uploads/RAINJACKET%20-%20DARKBLUE%201.jpg"
