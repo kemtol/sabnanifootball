@@ -4,7 +4,7 @@ date: 2018-12-24 13:12:00 +07:00
 permalink: "/product/jasa-pembuatan-baju-futsal-minimalist.html"
 categories:
 - teamwear
-position: 16
+position: 21
 image:
 - "/uploads/teamwear%20minimalist.jpg"
 - "/uploads/minimalist-1.jpg"

@@ -4,7 +4,7 @@ date: 2018-12-24 13:29:00 +07:00
 permalink: "/product/jasa-pembuatan-baju-futsal-cantona.html"
 categories:
 - teamwear
-position: 15
+position: 20
 image:
 - "/uploads/teamwear%20cantona.jpg"
 - "/uploads/cantona.jpg"

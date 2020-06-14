@@ -4,7 +4,7 @@ date: 2018-12-06 11:12:00 +07:00
 permalink: "/product/jual-tas-sepatu-futsal.html"
 categories:
 - equipment
-position: 17
+position: 22
 image:
 - "/uploads/jual-tas-kecil-futsal.jpg"
 - "/uploads/jual-tas-kecil-futsal.jpg"

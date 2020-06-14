@@ -4,6 +4,7 @@ date: 2020-06-13 02:06:00 +07:00
 permalink: "/product/jual-sabnani-THIRTS-SHIRTS-MONOCHROME-MERAH.html"
 categories:
 - apparel
+position: 0
 image:
 - "/uploads/TSHIRT%20-%20MONOCHROME%20-%20RED%201.jpg"
 - "/uploads/TSHIRT%20-%20MONOCHROME%20-%20RED%202.jpg"
