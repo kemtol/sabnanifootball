@@ -1,7 +1,7 @@
 ---
-title: NEVER STOP DREAMING-JERSEY-DARK BLUE/RED
+title: NEVER STOP DREAMING-JERSEY-BIRU DONGKER/MERAH
 date: 2018-12-21 20:59:00 +07:00
-permalink: "/product/jual-sabnani-NEVER-STOP-DREAMING-JERSEY-DARK-BLUE-RED-training.html"
+permalink: "/product/jual-sabnani-NEVER-STOP-DREAMING-JERSEY-BIRU-DONGKER-MERAH-training.html"
 categories:
 - apparel
 position: 5
@@ -18,7 +18,7 @@ size:
 ---
 
 SABNANI
-NEVER STOP DREAMING-JERSEY-DARK BLUE/RED
+NEVER STOP DREAMING-JERSEY-BIRU DONGKER/MERAH
 
 Bahan:
 
