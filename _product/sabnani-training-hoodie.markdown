@@ -4,7 +4,7 @@ date: 2018-12-21 20:59:00 +07:00
 permalink: "/product/jual-sabnani-NEVER-STOP-DREAMING-JERSEY-BIRU-DONGKER-MERAH-training.html"
 categories:
 - apparel
-position: 11
+position: 10
 image:
 - "/uploads/JERSEY%20-%20NSD%20-%20DARKBLUERED%201.jpg"
 - "/uploads/JERSEY%20-%20NSD%20-%20DARKBLUERED%202.jpg"
