@@ -1,5 +1,5 @@
 ---
-title: TSHIRTS - MONOCHROME - RED
+title: TSHIRTS - MONOCHROME - MERAH
 date: 2020-06-13 02:06:00 +07:00
 permalink: "/product/jual-sabnani-THIRTS-SHIRTS-MONOCHROME-MERAH.html"
 categories:
@@ -16,7 +16,7 @@ size:
 ---
 
 SABNANI
-TSHIRTS - MONOCHROME - RED
+TSHIRTS - MONOCHROME - MERAH
 
 Bahan:
 
