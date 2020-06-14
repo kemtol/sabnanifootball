@@ -4,7 +4,7 @@ date: 2018-12-24 13:21:00 +07:00
 permalink: "/product/jasa-pembuatan-baju-futsal-line.html"
 categories:
 - teamwear
-position: 20
+position: 21
 image:
 - "/uploads/teamwear%20line.jpg"
 - "/uploads/line-2.jpg"

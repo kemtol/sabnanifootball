@@ -4,7 +4,7 @@ date: 2018-12-24 13:26:00 +07:00
 permalink: "/product/jasa-pembuatan-baju-futsal-victory.html"
 categories:
 - teamwear
-position: 21
+position: 22
 image:
 - "/uploads/teamwear%20victory.jpg"
 - "/uploads/victory-1.jpg"

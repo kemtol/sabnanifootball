@@ -4,7 +4,7 @@ date: 2018-12-14 14:17:00 +07:00
 permalink: "/product/jual-tas-serut-futsal.html"
 categories:
 - equipment
-position: 13
+position: 15
 image:
 - "/uploads/jual-tas-serut-futsal.jpg"
 - "/uploads/jual-tas-serut-futsal.jpg"
