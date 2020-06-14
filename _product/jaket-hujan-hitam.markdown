@@ -1,7 +1,7 @@
 ---
 title: JAKET HUJAN HITAM
 date: 2020-06-14 16:42:00 +07:00
-position: 4
+position: 5
 image:
 - "/uploads/RAINJACKET%20-%20BLACK%201.jpg"
 - "/uploads/RAINJACKET%20-%20BLACK%202.jpg"
