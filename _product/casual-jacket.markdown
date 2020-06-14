@@ -1,7 +1,7 @@
 ---
-title: SPORTS PANTS
+title: CELANA TRAINING
 date: 2018-12-22 12:50:00 +07:00
-permalink: "/product/jual-sabnani-sports-pants.html"
+permalink: "/product/jual-sabnani-CELANA-TRAINING-sports-pants.html"
 categories:
 - apparel
 position: 11
@@ -18,7 +18,7 @@ size:
 ---
 
 SABNANI
-SPORTS PANTS
+CELANA TRAINING
 
 Bahan:
 
