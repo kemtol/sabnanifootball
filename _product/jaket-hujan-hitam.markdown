@@ -2,6 +2,8 @@
 title: JAKET HUJAN HITAM
 date: 2020-06-14 16:42:00 +07:00
 permalink: "/product/jual-sabnani-JAKET-HUJAN-TASLAN-ANTI-AIR-HITAM.html"
+categories:
+- apparel
 position: 5
 image:
 - "/uploads/RAINJACKET%20-%20BLACK%201.jpg"
