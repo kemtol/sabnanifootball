@@ -1,5 +1,5 @@
 ---
-title: TSHIRTS - MONOCHROME - WHITE
+title: T-SHIRTS - MONOCHROME - PUTIH
 date: 2020-06-13 02:05:00 +07:00
 permalink: "/product/jual-sabnani-THIRTS-SHIRTS-MONOCHROME-PUTIH.html"
 categories:
@@ -16,7 +16,7 @@ size:
 ---
 
 SABNANI
-TSHIRTS - MONOCHROME - WHITE
+T-SHIRTS - MONOCHROME - PUTIH
 
 Bahan:
 
