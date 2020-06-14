@@ -4,7 +4,7 @@ date: 2018-12-22 12:56:00 +07:00
 permalink: "/product/jual-sabnani-POLO-SHIRTS-MONOCHROME-HITAM.html"
 categories:
 - apparel
-position: 23
+position: 11
 image:
 - "/uploads/POLOSHIRT%20-%20MONOCHROME%20-%20BLACK%201.jpg"
 - "/uploads/POLOSHIRT%20-%20MONOCHROME%20-%20BLACK%202.jpg"
