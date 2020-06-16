@@ -8,11 +8,20 @@ position: 23
 image:
 - "/uploads/teamwear%20cantona.jpg"
 - "/uploads/cantona.jpg"
-price: 235000
+price: 0
 size:
-- S-5XL
+- S
+- M
+- L
 teamwearprice:
 - 195000
+teamweardesc:
+- |
+  Logo Klub : flock / Polyflex
+  Sabnani Logo (pada baju dan celana)
+  Logo Sponsor
+  Nama Pemain
+  Nomor pemain (pada baju dan celana)
 ---
 
 Sabnani Amateur Set Jersey sesuai dengan tim Sepakbola yang ingin mengejar impian untuk menjadi tim profesional.
