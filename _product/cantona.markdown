@@ -22,6 +22,7 @@ teamweardesc:
   Logo Sponsor
   Nama Pemain
   Nomor pemain (pada baju dan celana)
+  Template Desain Jersey
 ---
 
 Sabnani Amateur Set Jersey sesuai dengan tim Sepakbola yang ingin mengejar impian untuk menjadi tim profesional.
