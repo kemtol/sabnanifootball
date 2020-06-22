@@ -1,7 +1,7 @@
 ---
-title: Victory
+title: SET CUSTOM JERSEY
 date: 2018-12-24 13:26:00 +07:00
-permalink: "/product/jasa-pembuatan-baju-futsal-victory.html"
+permalink: "/product/jasa-pembuatan-baju-futsal-SEPAKBOLA-SET-CUSTOM-JERSEY.html"
 categories:
 - teamwear
 position: 23
