@@ -4,7 +4,7 @@ date: 2020-06-13 02:06:00 +07:00
 permalink: "/product/jual-sabnani-THIRTS-SHIRTS-MONOCHROME-HITAM.html"
 categories:
 - apparel
-position: 1
+position: 2
 image:
 - "/uploads/TSHIRT%20-%20MONOCHROME%20-%20BLACK%201.jpg"
 - "/uploads/TSHIRT%20-%20MONOCHROME%20-%20BLACK%202.jpg"

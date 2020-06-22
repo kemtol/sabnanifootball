@@ -4,7 +4,7 @@ date: 2020-06-14 16:37:00 +07:00
 permalink: "/product/jual-sabnani-JAKET-HUJAN-TASLAN-ANTI-AIR-MERAH.html"
 categories:
 - apparel
-position: 4
+position: 5
 image:
 - "/uploads/RAINJACKET%20-%20RED%201.jpg"
 - "/uploads/RAINJACKET%20-%20RED%202.jpg"

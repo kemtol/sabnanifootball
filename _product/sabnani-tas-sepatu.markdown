@@ -4,7 +4,7 @@ date: 2018-12-14 14:17:00 +07:00
 permalink: "/product/jual-tas-sepatu.html"
 categories:
 - equipment
-position: 15
+position: 19
 image:
 - "/uploads/SHOE%20BAG%201.jpg"
 - "/uploads/SHOE%20BAG%202.jpg"

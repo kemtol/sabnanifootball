@@ -4,7 +4,7 @@ date: 2018-12-22 12:46:00 +07:00
 permalink: "/product/jual-JERSEY-NEVER-STOP-DREAMING-HITAM-ORANGE-team-sepakbola.html"
 categories:
 - apparel
-position: 8
+position: 9
 image:
 - "/uploads/JERSEY%20-%20NSD%20-%20BLACKORANGE%201.jpg"
 - "/uploads/JERSEY%20-%20NSD%20-%20BLACKORANGE%202.jpg"

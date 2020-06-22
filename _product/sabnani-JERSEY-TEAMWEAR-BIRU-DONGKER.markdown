@@ -4,6 +4,7 @@ date: 2020-06-22 15:16:00 +07:00
 permalink: "/product/jual-sabnani-sabnani-JERSEY-TEAMWEAR-BIRU-DONGKER.html"
 categories:
 - teamwear
+position: 0
 image:
 - "/uploads/JERSEY%20-%20MONOCHROME%20-%20DARKBLUE%201.jpg"
 - "/uploads/JERSEY%20-%20MONOCHROME%20-%20DARKBLUE%202.jpg"

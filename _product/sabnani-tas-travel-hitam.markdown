@@ -4,7 +4,7 @@ date: 2018-12-14 11:15:00 +07:00
 permalink: "/product/jual-sabnani-tas-travel-hitam.html"
 categories:
 - equipment
-position: 19
+position: 20
 image:
 - "/uploads/TRAVEL%20BAG%201.jpg"
 - "/uploads/TRAVEL%20BAG%202.jpg"
