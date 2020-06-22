@@ -5,6 +5,7 @@ permalink: "/product/jasa-pembuatan-baju-futsal-line.html"
 categories:
 - teamwear
 - custom jersey
+- customjersey
 position: 22
 image:
 - "/uploads/teamwear%20line.jpg"
