@@ -2,6 +2,8 @@
 title: Set Custom Jersey
 date: 2018-12-24 13:29:00 +07:00
 permalink: "/product/jasa-pembuatan-baju-futsal-cantona.html"
+categories:
+- custom jersey
 position: 24
 image:
 - "/uploads/teamwear%20cantona.jpg"
