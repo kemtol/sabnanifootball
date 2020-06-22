@@ -8,11 +8,16 @@ position: 24
 image:
 - "/uploads/teamwear%20cantona.jpg"
 - "/uploads/cantona.jpg"
-price: 0
+price: 195000
 size:
 - S
 - M
 - L
+- XL
+- 2XL
+- 3XL
+- 4XL
+- 5XL
 teamwearprice:
 - 195000
 teamweardesc:
