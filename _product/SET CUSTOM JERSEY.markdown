@@ -6,8 +6,15 @@ categories:
 - teamwear
 position: 23
 image:
-- "/uploads/teamwear%20victory.jpg"
-- "/uploads/victory-1.jpg"
+- "/uploads/TEAMWEAR%20(2).JPG"
+- "/uploads/TEAMWEAR%20(3).JPG"
+- "/uploads/TEAMWEAR%20(4).JPG"
+- "/uploads/TEAMWEAR%20(5).JPG"
+- "/uploads/TEAMWEAR%20(6).JPG"
+- "/uploads/TEAMWEAR%20(7).JPG"
+- "/uploads/TEAMWEAR%20(8).JPG"
+- "/uploads/TEAMWEAR%20(10).JPG"
+- "/uploads/SOCKS%20BLACK%201.jpg"
 brand: SABNANI
 price: 195000
 teamwearprice:
