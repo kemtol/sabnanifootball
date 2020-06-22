@@ -9,7 +9,7 @@ image:
 - "/uploads/teamwear%20victory.jpg"
 - "/uploads/victory-1.jpg"
 brand: SABNANI
-price: 235000
+price: 195000
 teamwearprice:
 - 195000
 - 255000
