@@ -5,6 +5,7 @@ permalink: "/product/jasa-pembuatan-baju-futsal-cantona.html"
 categories:
 - custom jersey
 - customjersey
+- teamwear
 position: 24
 image:
 - "/uploads/teamwear%20cantona.jpg"
