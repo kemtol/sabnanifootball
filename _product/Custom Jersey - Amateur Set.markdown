@@ -1,5 +1,5 @@
 ---
-title: Custom Jersey - Amateur Set
+title: Set Custom Jersey
 date: 2018-12-24 13:29:00 +07:00
 permalink: "/product/jasa-pembuatan-baju-futsal-cantona.html"
 categories:
@@ -25,27 +25,35 @@ teamwearprice:
 - 255000
 teamweardesc:
 - |
+  <p>Minimum pemesanan : 15  Set<p>
   <p>Logo Klub : flock / Polyflex<p>
   <p>Sabnani Logo (pada baju dan celana)<p>
-  <p>Logo Sponsor<p>
+  <p>1 Logo Sponsor dada<p>
   <p>Nama Pemain<p>
   <p>Nomor pemain (pada baju dan celana)<p>
-  <p>Template Desain Jersey<p>
-- "<p>Sabnani Pro Set Jersey sangat sesuai dengan tim Sepakbola profesional, team
-  anda akan dibantu tim profesioanl dari Sabnani dalam hal pemuatan foto da video
-  profile team sepakbola mu.</p> <p>Minimum pemesanan untuk Sabnani Amateur Set Jersey
-  adalah 25 pcs, termasuk logo Klub, flock / Polyflex, Sabnani Logo (pada baju dan
-  celana), logo Sponsor , Nama Pemain, Nomor pemain (pada baju dan celana).</p> <p>Anda
-  dapat memilih atau memadukan bahan dengan kualitas “ Comfort Fit “Sabnani dengan
-  pilihan bahan: Dot Drifit, Drifit Heksagonal, Wafer Drifit, Mesh Drifit, Serena
-  Super, Billabong, Benzema & Paving.</p>"
+  <p>Gratis Template Desain Jersey<p>
+- |-
+  <p>Minimum pemesanan : 24  Set<p>
+  <p>Logo Klub : flock / Polyflex<p>
+  <p>Sabnani Logo (pada baju dan celana)<p>
+  <p>1 Logo Sponsor dada<p>
+  <p>Nama Pemain<p>
+  <p>Nomor pemain (pada baju dan celana)<p>
+  <p>Kaos kaki pemain<p>
+  <p>Gratis Tas serut <p>
+  <p>Gratis rompi 11 pcs<p>
+  <p>Gratis Template Desain Jersey<p>
 ---
 
-Sabnani Amateur Set Jersey sesuai dengan tim Sepakbola yang ingin mengejar impian untuk menjadi tim profesional.
+Kembangkan ide kreatif bersama team Sepakbola anda dengan 2 pilihan paket yang tersedia dari Sabnani
+
+Paket  **Sabnani Amateur Set Jersey** sesuai untuk tim Sepakbola yang ingin mengejar impian untuk menjadi tim profesional.
+
+Paket  **Sabnani Pro Set Jersey** sesuai untuk tim Sepakbola yang ingin menjadi tim profesional secara outlook dan management.
 
 Pilih bahan-bahan terbaik dengan kualitas **" Comfort Fit "**  dengan pilihan bahan: Dot Drifit, Drifit Heksagonal, Wafer Drifit, Mesh Drifit, Serena Super, Billabong, Benzema & Paving
 
-Minimum pemesanan untuk Sabnani Amateur Set Jersey adalah 15 pcs.
+
 
 
 
