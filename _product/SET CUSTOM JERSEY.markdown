@@ -7,6 +7,7 @@ categories:
 position: 23
 image:
 - "/uploads/TEAMWEAR%20(2).JPG"
+- "/uploads/TEAMWEAR%20(2).JPG"
 - "/uploads/TEAMWEAR%20(3).JPG"
 - "/uploads/TEAMWEAR%20(4).JPG"
 - "/uploads/TEAMWEAR%20(5).JPG"
