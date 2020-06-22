@@ -3,14 +3,12 @@ title: Set Custom Jersey 2
 date: 2020-06-22 16:44:00 +07:00
 permalink: "/product/jual-sabnani-set-custom-jersey-2.html"
 categories:
-- custom jersey
-- customjersey
 - teamwear
 image:
 - "/uploads/JERSEY%20-%20MONOCHROME%20-%20RED%203.jpg"
 - "/uploads/image-tampak-belakang.jpg"
 brand: SABNANI
-price: 195000-255000
+price: 195000
 teamwearprice:
 - 195000
 - 255000
