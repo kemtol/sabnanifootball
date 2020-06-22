@@ -4,6 +4,7 @@ date: 2018-12-24 13:29:00 +07:00
 permalink: "/product/jasa-pembuatan-baju-futsal-cantona.html"
 categories:
 - custom jersey
+- customjersey
 position: 24
 image:
 - "/uploads/teamwear%20cantona.jpg"
@@ -21,7 +22,7 @@ size:
 - 5XL
 teamwearprice:
 - 195000
-- "(Harga pro set, diisi hanya pada produk teamwear)"
+- 255000
 teamweardesc:
 - |
   <p>Logo Klub : flock / Polyflex<p>
