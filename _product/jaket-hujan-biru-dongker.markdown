@@ -4,7 +4,7 @@ date: 2020-06-14 16:42:00 +07:00
 permalink: "/product/jual-sabnani-JAKET-HUJAN-TASLAN-ANTI-AIR-BIRU-DONGKER.html"
 categories:
 - apparel
-position: 4
+position: 7
 image:
 - "/uploads/RAINJACKET%20-%20DARKBLUE%201.jpg"
 - "/uploads/RAINJACKET%20-%20DARKBLUE%202.jpg"

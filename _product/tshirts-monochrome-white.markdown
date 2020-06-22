@@ -4,7 +4,7 @@ date: 2020-06-13 02:05:00 +07:00
 permalink: "/product/jual-sabnani-THIRTS-SHIRTS-MONOCHROME-PUTIH.html"
 categories:
 - apparel
-position: 3
+position: 6
 image:
 - "/uploads/TSHIRT%20-%20MONOCHROME%20-%20WHITE%201.jpg"
 - "/uploads/TSHIRT%20-%20MONOCHROME%20-%20WHITE%202.jpg"

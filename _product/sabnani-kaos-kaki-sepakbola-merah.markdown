@@ -4,7 +4,7 @@ date: 2018-12-16 15:23:00 +07:00
 permalink: "/product/jual-sabnani-kaos-kaki-sepakbola-merah.html"
 categories:
 - equipment
-position: 17
+position: 20
 image:
 - "/uploads/SOCKS%20RED%201.jpg"
 - "/uploads/SOCKS%20RED%202.jpg"

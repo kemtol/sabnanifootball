@@ -4,6 +4,7 @@ date: 2020-06-22 16:34:00 +07:00
 permalink: "/product/jual-sabnani-sabnani-JERSEY-TEAMWEAR-putih.html"
 categories:
 - apparel
+position: 2
 image:
 - "/uploads/JERSEY%20-%20MONOCHROME%20-%20WHITE%201.jpg"
 - "/uploads/JERSEY%20-%20MONOCHROME%20-%20WHITE%202.jpg"

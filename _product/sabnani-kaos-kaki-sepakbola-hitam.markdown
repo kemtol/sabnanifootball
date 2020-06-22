@@ -4,7 +4,7 @@ date: 2018-12-14 14:12:00 +07:00
 permalink: "/product/jual-sabnani-kaos-kaki-sepakbola-hitam.html"
 categories:
 - equipment
-position: 16
+position: 19
 image:
 - "/uploads/SOCKS%20BLACK%201.jpg"
 - "/uploads/SOCKS%20BLACK%202.jpg"
