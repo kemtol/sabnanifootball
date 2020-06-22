@@ -4,6 +4,7 @@ date: 2018-12-24 13:21:00 +07:00
 permalink: "/product/jasa-pembuatan-baju-futsal-line.html"
 categories:
 - teamwear
+- custom jersey
 position: 22
 image:
 - "/uploads/teamwear%20line.jpg"
