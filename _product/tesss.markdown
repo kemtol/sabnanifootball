@@ -6,8 +6,10 @@ categories:
 - clubshops
 image:
 - "/uploads/SHORT%20-%20MONOCHROME%20-%20BLACK%201.jpg"
+- "/uploads/image-tampak-belakang.jpg"
 brand: sabnani
 price: 5550000
+layout: products
 ---
 
 tes
