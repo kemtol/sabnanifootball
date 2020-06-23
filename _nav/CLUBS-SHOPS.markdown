@@ -2,7 +2,7 @@
 title: CLUB SHOPS
 date: 2020-06-22 15:50:00 +07:00
 permalink: "/product/club-shops/"
-position: 0
+position: 2
 ---
 
 **SABNANI CLUBS**
