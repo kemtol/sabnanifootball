@@ -2,7 +2,7 @@
 title: CUSTOM JERSEY
 date: 2018-12-06 16:49:00 +07:00
 permalink: "/product/CUSTOMJERSEY/"
-position: 4
+position: 2
 layout: products
 ---
 
