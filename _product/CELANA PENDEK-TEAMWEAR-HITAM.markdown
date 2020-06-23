@@ -4,9 +4,6 @@ date: 2020-06-22 17:34:00 +07:00
 permalink: "/product/jual-sabnani-CELANA PENDEK-TEAMWEAR-HITAM.html"
 categories:
 - apparel
-- customjersey
-- custom-jersey
-- equipment
 image:
 - "/uploads/SHORT%20-%20MONOCHROME%20-%20BLACK%201.jpg"
 - "/uploads/SHORT%20-%20MONOCHROME%20-%20BLACK%203.jpg"
