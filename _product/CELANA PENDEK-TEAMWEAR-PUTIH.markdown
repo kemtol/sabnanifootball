@@ -4,6 +4,8 @@ date: 2020-06-22 17:35:00 +07:00
 permalink: "/product/jual-sabnani-CELANA PENDEK-TEAMWEAR-PUTIH.html"
 categories:
 - apparel
+- customjersey
+- equipment
 image:
 - "/uploads/SHORT%20-%20MONOCHROME%20-%20WHITE%201.jpg"
 - "/uploads/SHORT%20-%20MONOCHROME%20-%20WHITE%203.jpg"
