@@ -3,7 +3,6 @@ title: JERSEY-TEAMWEAR-BIRU DONGKER
 date: 2020-06-22 15:16:00 +07:00
 permalink: "/product/jual-sabnani-sabnani-JERSEY-TEAMWEAR-BIRU-DONGKER.html"
 categories:
-- apparel
 - teamwear
 position: 3
 image:
