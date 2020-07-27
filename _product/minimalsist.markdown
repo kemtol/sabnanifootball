@@ -1,22 +1,24 @@
 ---
-title: Minimalist
+title: Sabnani Amateur Set Jersey
 date: 2018-12-24 13:12:00 +07:00
-permalink: "/product/jasa-pembuatan-baju-futsal-minimalist.html"
+permalink: "/product/jasa-pembuatan-baju-futsal-sabnani-amateur-set-jersey.html"
 categories:
 - customjersey
 position: 31
 image:
-- "/uploads/teamwear%20minimalist.jpg"
-- "/uploads/minimalist-1.jpg"
-- "/uploads/minimalist-2.jpg"
-- "/uploads/minimalist-3.jpg"
-price: 235000
+- "/uploads/TEAMWEAR%20(2).JPG"
+- "/uploads/TEAMWEAR%20(2).JPG"
+- "/uploads/TEAMWEAR%20(10).JPG"
+brand: SABNANI
+price: 195000
 teamwearprice:
 - 2500000
 - 4000000
 ---
 
-Jersey dengan konsep minimalis dibuat oleh sabnani untuk  musim 2019, konsep ini diciptakan untuk yang menyukai desain sederhana dan elegan dan sesuai untuk semua tim sepak bola dan futsal.
+Paket  **Sabnani Amateur Set Jersey** sesuai untuk tim Sepakbola yang ingin mengejar impian untuk menjadi tim profesional.
+
+Pilih bahan-bahan terbaik dengan kualitas **" Comfort Fit "**  dengan pilihan bahan: Dot Drifit, Drifit Heksagonal, Wafer Drifit, Mesh Drifit, Serena Super, Billabong, Benzema & Paving
 
 
 
