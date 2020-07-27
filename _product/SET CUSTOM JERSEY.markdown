@@ -6,15 +6,13 @@ categories:
 - customjersey
 position: 30
 image:
-- "/uploads/TEAMWEAR%20(2).JPG"
-- "/uploads/TEAMWEAR%20(3).JPG"
+- "/uploads/TEAMWEAR%20(8).JPG"
+- "/uploads/SOCKS%20BLACK%201.jpg"
 - "/uploads/TEAMWEAR%20(4).JPG"
 - "/uploads/TEAMWEAR%20(5).JPG"
 - "/uploads/TEAMWEAR%20(6).JPG"
 - "/uploads/TEAMWEAR%20(7).JPG"
-- "/uploads/TEAMWEAR%20(8).JPG"
 - "/uploads/TEAMWEAR%20(10).JPG"
-- "/uploads/SOCKS%20BLACK%201.jpg"
 brand: SABNANI
 price: 255000
 teamwearprice:
