@@ -4,7 +4,7 @@ date: 2020-04-27 18:19:00 +07:00
 permalink: "/product/jual-sabnani-POLO-SHIRTS-MONOCHROME-biru-dongker.html"
 categories:
 - apparel
-position: 18
+position: 23
 image:
 - "/uploads/POLOSHIRT%20-%20MONOCHROME%20-%20DARKBLUE%201.jpg"
 - "/uploads/POLOSHIRT%20-%20MONOCHROME%20-%20DARKBLUE%202.jpg"

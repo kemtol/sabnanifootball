@@ -4,7 +4,7 @@ date: 2018-12-24 13:26:00 +07:00
 permalink: "/product/jasa-pembuatan-baju-futsal-SEPAKBOLA-SET-CUSTOM-JERSEY.html"
 categories:
 - teamwear
-position: 25
+position: 30
 image:
 - "/uploads/TEAMWEAR%20(2).JPG"
 - "/uploads/TEAMWEAR%20(2).JPG"

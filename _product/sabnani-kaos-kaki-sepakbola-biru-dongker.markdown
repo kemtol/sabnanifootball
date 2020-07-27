@@ -4,7 +4,7 @@ date: 2018-12-16 15:08:00 +07:00
 permalink: "/product/jual-sabnani-kaos-kaki-sepakbola-biru-dongker.html"
 categories:
 - equipment
-position: 21
+position: 26
 image:
 - "/uploads/SOCKS%20DARK%20BLUE%201.jpg"
 - "/uploads/SOCKS%20DARK%20BLUE%202.jpg"

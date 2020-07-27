@@ -4,7 +4,7 @@ date: 2018-12-06 11:12:00 +07:00
 permalink: "/product/jual-sabnan-koper-hitam.html"
 categories:
 - equipment
-position: 22
+position: 27
 image:
 - "/uploads/KOPER%201.jpg"
 - "/uploads/KOPER%202.jpg"

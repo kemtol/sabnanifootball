@@ -5,6 +5,7 @@ permalink: "/product/tess.html"
 categories:
 - clubshops
 - customjersey
+position: 0
 image:
 - "/uploads/SHORT%20-%20MONOCHROME%20-%20BLACK%201.jpg"
 - "/uploads/image-tampak-belakang.jpg"
