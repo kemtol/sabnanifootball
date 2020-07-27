@@ -3,7 +3,6 @@ title: JERSEY-TEAMWEAR-PUTIH
 date: 2020-06-22 16:34:00 +07:00
 permalink: "/product/jual-sabnani-sabnani-JERSEY-TEAMWEAR-putih.html"
 categories:
-- apparel
 - teamwear
 position: 2
 image:
