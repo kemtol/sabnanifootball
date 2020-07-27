@@ -20,3 +20,7 @@ size:
 
 Serpong City FC 
 Home Jersey Season 2020/2021
+
+Tersedia dalam ukuran :
+- Dewasa
+- Anak-anak
