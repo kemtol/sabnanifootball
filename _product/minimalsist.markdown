@@ -7,7 +7,7 @@ categories:
 position: 31
 image:
 - "/uploads/TEAMWEAR%20(2).JPG"
-- "/uploads/TEAMWEAR%20(2).JPG"
+- "/uploads/TEAMWEAR%20(3).JPG"
 - "/uploads/TEAMWEAR%20(10).JPG"
 brand: SABNANI
 price: 195000
