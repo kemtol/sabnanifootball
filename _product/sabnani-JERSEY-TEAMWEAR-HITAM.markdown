@@ -4,7 +4,7 @@ date: 2020-06-22 16:34:00 +07:00
 permalink: "/product/jual-sabnani-sabnani-JERSEY-TEAMWEAR-hitam.html"
 categories:
 - teamwear
-position: 6
+position: 5
 image:
 - "/uploads/JERSEY%20-%20MONOCHROME%20-%20BLACK%201.jpg"
 - "/uploads/JERSEY%20-%20MONOCHROME%20-%20BLACK%202.jpg"

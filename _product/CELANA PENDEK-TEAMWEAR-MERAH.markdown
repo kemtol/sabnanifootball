@@ -4,7 +4,7 @@ date: 2020-06-22 17:24:00 +07:00
 permalink: "/product/jual-sabnani-CELANA PENDEK-TEAMWEAR-MERAH.html"
 categories:
 - teamwear
-position: 3
+position: 2
 image:
 - "/uploads/SHORT%20-%20MONOCHROME%20-%20RED%201.jpg"
 - "/uploads/SHORT%20-%20MONOCHROME%20-%20RED%202.jpg"
