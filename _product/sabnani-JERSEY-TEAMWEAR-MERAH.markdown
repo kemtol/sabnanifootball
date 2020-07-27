@@ -3,7 +3,6 @@ title: JERSEY-TEAMWEAR-MERAH
 date: 2020-06-22 16:34:00 +07:00
 permalink: "/product/jual-sabnani-sabnani-JERSEY-TEAMWEAR-merah.html"
 categories:
-- apparel
 - teamwear
 position: 0
 image:
